@@ -1,0 +1,924 @@
+,id,firstname,surname,born_country_code,died_country_code,gender,year_recieved,category,share,name_of_university,city_of_university,country_of_university,born_month,age,age_get_prize
+0,1,Wilhelm Conrad,Röntgen,DE,DE,male,1901,physics,1,Munich University,Munich,Germany,Mar,78,56
+1,2,Hendrik A.,Lorentz,NL,NL,male,1902,physics,2,Leiden University,Leiden,the Netherlands,Jul,75,49
+2,3,Pieter,Zeeman,NL,NL,male,1902,physics,2,Amsterdam University,Amsterdam,the Netherlands,May,78,37
+3,4,Henri,Becquerel,FR,FR,male,1903,physics,2,École Polytechnique,Paris,France,Dec,56,51
+4,5,Pierre,Curie,FR,FR,male,1903,physics,4,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),Paris,France,May,47,44
+5,6,Marie,Curie,PL,FR,female,1903,physics,4,Not Available,Not Available,Not Available,Nov,67,36
+6,7,Marie,Curie,PL,FR,female,1911,chemistry,1,Sorbonne University,Paris,France,Nov,67,44
+7,8,Lord,Rayleigh,GB,GB,male,1904,physics,1,Royal Institution of Great Britain,London,United Kingdom,Nov,77,62
+8,9,Philipp,Lenard,SK,DE,male,1905,physics,1,Kiel University,Kiel,Germany,Jun,85,43
+9,10,J.J.,Thomson,GB,GB,male,1906,physics,1,University of Cambridge,Cambridge,United Kingdom,Dec,84,50
+10,11,Albert A.,Michelson,PL,US,male,1907,physics,1,University of Chicago,Chicago IL,USA,Dec,79,55
+11,12,Gabriel,Lippmann,LU,Not Available,male,1908,physics,1,Sorbonne University,Paris,France,Aug,76,63
+12,13,Guglielmo,Marconi,IT,IT,male,1909,physics,2,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom,Apr,63,35
+13,14,Ferdinand,Braun,DE,US,male,1909,physics,2,Strasbourg University,Strasbourg,Germany (now France),Jun,68,59
+14,15,Johannes Diderik,van der Waals,NL,NL,male,1910,physics,1,Amsterdam University,Amsterdam,the Netherlands,Nov,86,73
+15,16,Wilhelm,Wien,RU,DE,male,1911,physics,1,Würzburg University,Würzburg,Germany,Jan,64,47
+16,17,Gustaf,Dalén,SE,SE,male,1912,physics,1,Swedish Gas-Accumulator Co.,Lidingö Stockholm,Sweden,Nov,68,43
+17,18,Heike,Kamerlingh Onnes,NL,NL,male,1913,physics,1,Leiden University,Leiden,the Netherlands,Sep,73,60
+18,19,Max,von Laue,DE,DE,male,1914,physics,1,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany,Oct,81,35
+19,20,William,Bragg,GB,GB,male,1915,physics,2,University College,London,United Kingdom,Jul,80,53
+20,21,Lawrence,Bragg,AU,GB,male,1915,physics,2,Victoria University,Manchester,United Kingdom,Mar,81,25
+21,22,Charles Glover,Barkla,GB,GB,male,1917,physics,1,Edinburgh University,Edinburgh,United Kingdom,Jun,67,40
+22,23,Max,Planck,DE,DE,male,1918,physics,1,Berlin University,Berlin,Germany,Apr,89,60
+23,24,Johannes,Stark,DE,DE,male,1919,physics,1,Greifswald University,Greifswald,Germany,Apr,83,45
+24,25,Charles Edouard,Guillaume,CH,FR,male,1920,physics,1,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sèvres,France,Feb,77,59
+25,26,Albert,Einstein,DE,US,male,1921,physics,1,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany,Mar,76,42
+26,27,Niels,Bohr,DK,DK,male,1922,physics,1,Copenhagen University,Copenhagen,Denmark,Oct,77,37
+27,28,Robert A.,Millikan,US,US,male,1923,physics,1,California Institute of Technology (Caltech),Pasadena CA,USA,Mar,85,55
+28,29,Manne,Siegbahn,SE,SE,male,1924,physics,1,Uppsala University,Uppsala,Sweden,Dec,92,38
+29,30,James,Franck,DE,DE,male,1925,physics,2,Goettingen University,Göttingen,Germany,Aug,82,43
+30,31,Gustav,Hertz,DE,DE,male,1925,physics,2,Halle University,Halle,Germany,Jul,88,38
+31,32,Jean Baptiste,Perrin,FR,US,male,1926,physics,1,Sorbonne University,Paris,France,Sep,72,56
+32,33,Arthur H.,Compton,US,US,male,1927,physics,2,University of Chicago,Chicago IL,USA,Sep,70,35
+33,34,C.T.R.,Wilson,GB,GB,male,1927,physics,2,University of Cambridge,Cambridge,United Kingdom,Feb,90,58
+34,35,Owen Willans,Richardson,GB,GB,male,1928,physics,1,London University,London,United Kingdom,Apr,80,49
+35,36,Louis,de Broglie,FR,FR,male,1929,physics,1,Sorbonne University Institut Henri Poincaré,Paris,France,Aug,95,37
+36,37,Sir Chandrasekhara Venkata,Raman,IN,IN,male,1930,physics,1,Calcutta University,Calcutta,India,Nov,82,42
+37,38,Werner,Heisenberg,DE,DE,male,1932,physics,1,Leipzig University,Leipzig,Germany,Dec,75,31
+38,39,Erwin,Schrödinger,AT,AT,male,1933,physics,2,Berlin University,Berlin,Germany,Aug,74,46
+39,40,Paul A.M.,Dirac,GB,US,male,1933,physics,2,University of Cambridge,Cambridge,United Kingdom,Aug,82,31
+40,41,James,Chadwick,GB,GB,male,1935,physics,1,Liverpool University,Liverpool,United Kingdom,Oct,83,44
+41,42,Victor F.,Hess,AT,US,male,1936,physics,2,Innsbruck University,Innsbruck,Austria,Jun,81,53
+42,43,Carl D.,Anderson,US,US,male,1936,physics,2,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,86,31
+43,44,Clinton,Davisson,US,US,male,1937,physics,2,Bell Telephone Laboratories,New York NY,USA,Oct,77,56
+44,45,George Paget,Thomson,GB,GB,male,1937,physics,2,London University,London,United Kingdom,May,83,45
+45,46,Enrico,Fermi,IT,US,male,1938,physics,1,Rome University,Rome,Italy,Sep,53,37
+46,47,Ernest,Lawrence,US,US,male,1939,physics,1,University of California,Berkeley CA,USA,Aug,57,38
+47,48,Otto,Stern,PL,US,male,1943,physics,1,Carnegie Institute of Technology,Pittsburgh PA,USA,Feb,81,55
+48,49,Isidor Isaac,Rabi,PL,US,male,1944,physics,1,Columbia University,New York NY,USA,Jul,90,46
+49,50,Wolfgang,Pauli,AT,CH,male,1945,physics,1,Princeton University,Princeton NJ,USA,Apr,58,45
+50,51,Percy W.,Bridgman,US,US,male,1946,physics,1,Harvard University,Cambridge MA,USA,Apr,79,64
+51,52,Edward V.,Appleton,GB,GB,male,1947,physics,1,Department of Scientific and Industrial Research,London,United Kingdom,Sep,73,55
+52,53,Patrick M.S.,Blackett,GB,GB,male,1948,physics,1,Victoria University,Manchester,United Kingdom,Nov,77,51
+53,54,Hideki,Yukawa,JP,JP,male,1949,physics,1,Kyoto Imperial University,Kyoto,Japan,Jan,74,42
+54,55,Cecil,Powell,GB,IT,male,1950,physics,1,Bristol University,Bristol,United Kingdom,Dec,66,47
+55,56,John,Cockcroft,GB,GB,male,1951,physics,2,Atomic Energy Research Establishment,Harwell Berkshire,United Kingdom,May,70,54
+56,57,Ernest T.S.,Walton,IE,GB,male,1951,physics,2,Trinity College,Dublin,Ireland,Oct,92,48
+57,58,Felix,Bloch,CH,CH,male,1952,physics,2,Stanford University,Stanford CA,USA,Oct,78,47
+58,59,E. M.,Purcell,US,US,male,1952,physics,2,Harvard University,Cambridge MA,USA,Aug,85,40
+59,60,Frits,Zernike,NL,NL,male,1953,physics,1,Groningen University,Groningen,the Netherlands,Jul,78,65
+60,61,Max,Born,PL,DE,male,1954,physics,2,Edinburgh University,Edinburgh,United Kingdom,Dec,88,72
+61,62,Walther,Bothe,DE,DE,male,1954,physics,2,University of Heidelberg,Heidelberg,Germany,Jan,66,63
+62,63,Willis E.,Lamb,US,US,male,1955,physics,2,Stanford University,Stanford CA,USA,Jul,95,42
+63,64,Polykarp,Kusch,DE,US,male,1955,physics,2,Columbia University,New York NY,USA,Jan,82,44
+64,65,William B.,Shockley,GB,US,male,1956,physics,3,Semiconductor Laboratory of Beckman Instruments Inc.,Mountain View CA,USA,Feb,79,46
+65,66,John,Bardeen,US,US,male,1956,physics,3,University of Illinois,Urbana IL,USA,May,83,48
+66,67,John,Bardeen,US,US,male,1972,physics,3,University of Illinois,Urbana IL,USA,May,83,64
+67,68,Walter H.,Brattain,CN,US,male,1956,physics,3,Bell Telephone Laboratories,Murray Hill NJ,USA,Feb,85,54
+68,69,Chen Ning,Yang,CN,Not Available,male,1957,physics,2,Institute for Advanced Study,Princeton NJ,USA,Sep,98,35
+69,70,Tsung-Dao,Lee,CN,Not Available,male,1957,physics,2,Columbia University,New York NY,USA,Nov,94,31
+70,71,Pavel A.,Cherenkov,RU,RU,male,1958,physics,3,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Jul,86,54
+71,72,Igor Y.,Tamm,RU,RU,male,1958,physics,3,Lomonosov Moscow State University,Moscow,USSR (now Russia),Jul,76,63
+72,73,Emilio,Segrè,IT,US,male,1959,physics,2,University of California,Berkeley CA,USA,Feb,84,54
+73,74,Owen,Chamberlain,US,US,male,1959,physics,2,University of California,Berkeley CA,USA,Jul,86,39
+74,75,Donald A.,Glaser,US,US,male,1960,physics,1,University of California,Berkeley CA,USA,Sep,87,34
+75,76,Robert,Hofstadter,US,US,male,1961,physics,2,Stanford University,Stanford CA,USA,Feb,75,46
+76,77,Rudolf,Mössbauer,DE,Not Available,male,1961,physics,2,Technical University,Munich,Germany,Jan,82,32
+77,78,Lev,Landau,AZ,RU,male,1962,physics,1,Academy of Sciences,Moscow,USSR (now Russia),Jan,60,54
+78,79,Eugene,Wigner,HU,US,male,1963,physics,2,Princeton University,Princeton NJ,USA,Nov,93,61
+79,80,Maria,Goeppert Mayer,PL,US,female,1963,physics,4,University of California,San Diego CA,USA,Jun,66,57
+80,81,J. Hans D.,Jensen,DE,DE,male,1963,physics,4,University of Heidelberg,Heidelberg,Germany,Jun,66,56
+81,82,Charles H.,Townes,US,US,male,1964,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jul,100,49
+82,83,Nicolay G.,Basov,RU,RU,male,1964,physics,4,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Dec,79,42
+83,84,Aleksandr M.,Prokhorov,AU,RU,male,1964,physics,4,P.N. Lebedev Physical Institute,Moscow,USSR (now Russia),Jul,86,48
+84,85,Sin-Itiro,Tomonaga,JP,JP,male,1965,physics,3,Tokyo University of Education,Tokyo,Japan,Mar,73,59
+85,86,Julian,Schwinger,US,US,male,1965,physics,3,Harvard University,Cambridge MA,USA,Feb,76,47
+86,87,Richard P.,Feynman,US,US,male,1965,physics,3,California Institute of Technology (Caltech),Pasadena CA,USA,May,70,47
+87,88,Alfred,Kastler,FR,FR,male,1966,physics,1,École Normale Supérieure,Paris,France,May,82,64
+88,89,Hans,Bethe,FR,US,male,1967,physics,1,Cornell University,Ithaca NY,USA,Jul,99,61
+89,90,Luis,Alvarez,US,US,male,1968,physics,1,University of California,Berkeley CA,USA,Jun,77,57
+90,91,Murray,Gell-Mann,US,US,male,1969,physics,1,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,90,40
+91,92,Hannes,Alfvén,SE,SE,male,1970,physics,2,Royal Institute of Technology,Stockholm,Sweden,May,87,62
+92,93,Louis,Néel,FR,FR,male,1970,physics,2,University of Grenoble,Grenoble,France,Nov,96,66
+93,94,Dennis,Gabor,HU,GB,male,1971,physics,1,Imperial College,London,United Kingdom,Jun,79,71
+94,95,Leon N.,Cooper,US,Not Available,male,1972,physics,3,Brown University,Providence RI,USA,Feb,90,42
+95,96,Robert,Schrieffer,US,US,male,1972,physics,3,University of Pennsylvania,Philadelphia PA,USA,May,88,41
+96,97,Leo,Esaki,JP,Not Available,male,1973,physics,4,IBM Thomas J. Watson Research Center,Yorktown Heights NY,USA,Mar,95,48
+97,98,Ivar,Giaever,NO,Not Available,male,1973,physics,4,General Electric Company,Schenectady NY,USA,Apr,91,44
+98,99,Brian D.,Josephson,GB,Not Available,male,1973,physics,2,University of Cambridge,Cambridge,United Kingdom,Jan,80,33
+99,100,Martin,Ryle,GB,GB,male,1974,physics,2,University of Cambridge,Cambridge,United Kingdom,Sep,66,56
+100,101,Antony,Hewish,GB,Not Available,male,1974,physics,2,University of Cambridge,Cambridge,United Kingdom,May,96,50
+101,102,Aage N.,Bohr,DK,DK,male,1975,physics,3,Niels Bohr Institute,Copenhagen,Denmark,Jun,87,53
+102,103,Ben R.,Mottelson,US,Not Available,male,1975,physics,3,Nordita,Copenhagen,Denmark,Jul,94,49
+103,104,James,Rainwater,US,US,male,1975,physics,3,Columbia University,New York NY,USA,Dec,69,58
+104,105,Burton,Richter,US,US,male,1976,physics,2,Stanford Linear Accelerator Center,Stanford CA,USA,Mar,87,45
+105,106,Samuel C.C.,Ting,US,Not Available,male,1976,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jan,84,40
+106,107,Philip W.,Anderson,US,US,male,1977,physics,3,Bell Telephone Laboratories,Murray Hill NJ,USA,Dec,97,54
+107,108,Sir Nevill F.,Mott,GB,GB,male,1977,physics,3,University of Cambridge,Cambridge,United Kingdom,Sep,91,72
+108,109,John H.,van Vleck,US,US,male,1977,physics,3,Harvard University,Cambridge MA,USA,Mar,81,78
+109,110,Pyotr,Kapitsa,RU,RU,male,1978,physics,2,Academy of Sciences,Moscow,USSR (now Russia),Jul,90,84
+110,111,Arno,Penzias,DE,Not Available,male,1978,physics,4,Bell Laboratories,Holmdel NJ,USA,Apr,87,45
+111,112,Robert Woodrow,Wilson,US,Not Available,male,1978,physics,4,Bell Laboratories,Holmdel NJ,USA,Jan,84,42
+112,113,Sheldon,Glashow,US,Not Available,male,1979,physics,3,Harvard University Lyman Laboratory,Cambridge MA,USA,Dec,88,47
+113,114,Abdus,Salam,PK,GB,male,1979,physics,3,International Centre for Theoretical Physics,Trieste,Italy,Jan,70,53
+114,115,Steven,Weinberg,US,Not Available,male,1979,physics,3,Harvard University,Cambridge MA,USA,May,87,46
+115,116,James,Cronin,US,US,male,1980,physics,2,University of Chicago,Chicago IL,USA,Sep,85,49
+116,117,Val,Fitch,US,US,male,1980,physics,2,Princeton University,Princeton NJ,USA,Mar,92,57
+117,118,Nicolaas,Bloembergen,NL,US,male,1981,physics,4,Harvard University,Cambridge MA,USA,Mar,97,61
+118,119,Arthur L.,Schawlow,US,US,male,1981,physics,4,Stanford University,Stanford CA,USA,May,78,60
+119,120,Kai M.,Siegbahn,SE,SE,male,1981,physics,2,Uppsala University,Uppsala,Sweden,Apr,89,63
+120,121,Kenneth G.,Wilson,US,US,male,1982,physics,1,Cornell University,Ithaca NY,USA,Jun,77,46
+121,122,Subramanyan,Chandrasekhar,PK,US,male,1983,physics,2,University of Chicago,Chicago IL,USA,Oct,85,73
+122,123,William A.,Fowler,US,US,male,1983,physics,2,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,84,72
+123,124,Carlo,Rubbia,IT,Not Available,male,1984,physics,2,CERN,Geneva,Switzerland,Mar,86,50
+124,125,Simon,van der Meer,NL,CH,male,1984,physics,2,CERN,Geneva,Switzerland,Nov,86,59
+125,126,Klaus,von Klitzing,PL,Not Available,male,1985,physics,1,Max-Planck-Institut für Festkörperforschung,Stuttgart,Germany,Jun,77,42
+126,127,Ernst,Ruska,DE,DE,male,1986,physics,2,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,Dec,82,80
+127,128,Gerd,Binnig,DE,Not Available,male,1986,physics,4,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Jul,73,39
+128,129,Heinrich,Rohrer,CH,CH,male,1986,physics,4,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Jun,80,53
+129,130,J. Georg,Bednorz,DE,Not Available,male,1987,physics,2,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,May,70,37
+130,131,K. Alex,Müller,CH,Not Available,male,1987,physics,2,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,Apr,93,60
+131,132,Leon M.,Lederman,US,US,male,1988,physics,3,Fermi National Accelerator Laboratory,Batavia IL,USA,Jul,96,66
+132,133,Melvin,Schwartz,US,US,male,1988,physics,3,Digital Pathways Inc.,Mountain View CA,USA,Nov,74,56
+133,134,Jack,Steinberger,DE,Not Available,male,1988,physics,3,CERN,Geneva,Switzerland,May,99,67
+134,135,Norman F.,Ramsey,US,US,male,1989,physics,2,Harvard University,Cambridge MA,USA,Aug,96,74
+135,136,Hans G.,Dehmelt,DE,US,male,1989,physics,4,University of Washington,Seattle WA,USA,Sep,95,67
+136,137,Wolfgang,Paul,DE,DE,male,1989,physics,4,University of Bonn,Bonn,Germany,Aug,80,76
+137,138,Jerome I.,Friedman,US,Not Available,male,1990,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,90,60
+138,139,Henry W.,Kendall,US,US,male,1990,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Dec,73,64
+139,140,Richard E.,Taylor,CA,US,male,1990,physics,3,Stanford University,Stanford CA,USA,Nov,89,61
+140,141,Pierre-Gilles,de Gennes,FR,FR,male,1991,physics,1,Collège de France,Paris,France,Oct,75,59
+141,142,Georges,Charpak,PL,FR,male,1992,physics,1,École Supérieure de Physique et Chimie,Paris,France,Aug,86,68
+142,143,Russell A.,Hulse,US,Not Available,male,1993,physics,2,Princeton University,Princeton NJ,USA,Nov,70,43
+143,144,Joseph H.,Taylor Jr.,US,Not Available,male,1993,physics,2,Princeton University,Princeton NJ,USA,Mar,79,52
+144,145,Bertram N.,Brockhouse,CA,CA,male,1994,physics,2,McMaster University,Hamilton Ontario,Canada,Jul,85,76
+145,146,Clifford G.,Shull,US,US,male,1994,physics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Sep,86,79
+146,147,Martin L.,Perl,US,US,male,1995,physics,2,Stanford University,Stanford CA,USA,Jun,87,68
+147,148,Frederick,Reines,US,US,male,1995,physics,2,University of California,Irvine CA,USA,Mar,80,77
+148,149,David M.,Lee,US,Not Available,male,1996,physics,3,Cornell University,Ithaca NY,USA,Jan,89,65
+149,150,Douglas D.,Osheroff,US,Not Available,male,1996,physics,3,Stanford University,Stanford CA,USA,Aug,75,51
+150,151,Robert C.,Richardson,US,US,male,1996,physics,3,Cornell University,Ithaca NY,USA,Jun,76,59
+151,152,Steven,Chu,US,Not Available,male,1997,physics,3,Stanford University,Stanford CA,USA,Feb,72,49
+152,153,Claude,Cohen-Tannoudji,DZ,Not Available,male,1997,physics,3,Collège de France,Paris,France,Apr,87,64
+153,154,William D.,Phillips,US,Not Available,male,1997,physics,3,National Institute of Standards and Technology,Gaithersburg MD,USA,Nov,72,49
+154,155,Robert B.,Laughlin,US,Not Available,male,1998,physics,3,Stanford University,Stanford CA,USA,Nov,70,48
+155,156,Horst L.,Störmer,DE,Not Available,male,1998,physics,3,Columbia University,New York NY,USA,Apr,71,49
+156,157,Daniel C.,Tsui,CN,Not Available,male,1998,physics,3,Princeton University,Princeton NJ,USA,Feb,81,59
+157,158,Gerardus,'t Hooft,NL,Not Available,male,1999,physics,2,Utrecht University,Utrecht,the Netherlands,Jul,74,53
+158,159,Martinus J.G.,Veltman,NL,Not Available,male,1999,physics,2,Not Available,Not Available,Not Available,Jun,89,68
+159,160,Jacobus H.,van 't Hoff,NL,DE,male,1901,chemistry,1,Berlin University,Berlin,Germany,Aug,59,49
+160,161,Emil,Fischer,DE,DE,male,1902,chemistry,1,Berlin University,Berlin,Germany,Oct,67,50
+161,162,Svante,Arrhenius,SE,SE,male,1903,chemistry,1,Stockholm University,Stockholm,Sweden,Feb,68,44
+162,163,Sir William,Ramsay,GB,GB,male,1904,chemistry,1,University College,London,United Kingdom,Oct,64,52
+163,164,Adolf,von Baeyer,DE,DE,male,1905,chemistry,1,Munich University,Munich,Germany,Oct,82,70
+164,165,Henri,Moissan,FR,FR,male,1906,chemistry,1,Sorbonne University,Paris,France,Sep,55,54
+165,166,Eduard,Buchner,DE,RO,male,1907,chemistry,1,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany,May,57,47
+166,167,Ernest,Rutherford,NZ,GB,male,1908,chemistry,1,Victoria University,Manchester,United Kingdom,Aug,66,37
+167,168,Wilhelm,Ostwald,LV,DE,male,1909,chemistry,1,Leipzig University,Leipzig,Germany,Sep,79,56
+168,169,Otto,Wallach,RU,DE,male,1910,chemistry,1,Goettingen University,Göttingen,Germany,Mar,84,63
+169,170,Victor,Grignard,FR,FR,male,1912,chemistry,2,Nancy University,Nancy,France,May,64,41
+170,171,Paul,Sabatier,FR,FR,male,1912,chemistry,2,Toulouse University,Toulouse,France,Nov,87,58
+171,172,Alfred,Werner,FR,CH,male,1913,chemistry,1,University of Zurich,Zurich,Switzerland,Dec,53,47
+172,173,Theodore W.,Richards,US,US,male,1914,chemistry,1,Harvard University,Cambridge MA,USA,Jan,60,46
+173,174,Richard,Willstätter,DE,CH,male,1915,chemistry,1,Munich University,Munich,Germany,Aug,70,43
+174,175,Fritz,Haber,PL,CH,male,1918,chemistry,1,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany,Dec,66,50
+175,176,Walther,Nernst,DE,DE,male,1920,chemistry,1,Berlin University,Berlin,Germany,Jun,77,56
+176,177,Frederick,Soddy,GB,GB,male,1921,chemistry,1,University of Oxford,Oxford,United Kingdom,Sep,79,44
+177,178,Francis W.,Aston,GB,GB,male,1922,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Sep,68,45
+178,179,Fritz,Pregl,SI,AT,male,1923,chemistry,1,Graz University,Graz,Austria,Sep,61,54
+179,180,Richard,Zsigmondy,AT,DE,male,1925,chemistry,1,Goettingen University,Göttingen,Germany,Apr,64,60
+180,181,The,Svedberg,SE,SE,male,1926,chemistry,1,Uppsala University,Uppsala,Sweden,Aug,87,42
+181,182,Heinrich,Wieland,DE,DE,male,1927,chemistry,1,Munich University,Munich,Germany,Jun,80,50
+182,183,Adolf,Windaus,DE,DE,male,1928,chemistry,1,Goettingen University,Göttingen,Germany,Dec,83,52
+183,184,Arthur,Harden,GB,GB,male,1929,chemistry,2,London University,London,United Kingdom,Oct,75,64
+184,185,Hans,von Euler-Chelpin,DE,SE,male,1929,chemistry,2,Stockholm University,Stockholm,Sweden,Feb,91,56
+185,186,Hans,Fischer,DE,DE,male,1930,chemistry,1,Technische Hochschule (Institute of Technology),Munich,Germany,Jul,64,49
+186,187,Carl,Bosch,DE,DE,male,1931,chemistry,2,University of Heidelberg,Heidelberg,Germany,Aug,66,57
+187,188,Friedrich,Bergius,PL,AR,male,1931,chemistry,2,University of Heidelberg,Heidelberg,Germany,Oct,65,47
+188,189,Irving,Langmuir,US,US,male,1932,chemistry,1,General Electric Company,Schenectady NY,USA,Jan,76,51
+189,190,Harold C.,Urey,US,US,male,1934,chemistry,1,Columbia University,New York NY,USA,Apr,88,41
+190,191,Frédéric,Joliot,FR,FR,male,1935,chemistry,2,Institut du Radium,Paris,France,Mar,58,35
+191,192,Irène,Joliot-Curie,FR,FR,female,1935,chemistry,2,Institut du Radium,Paris,France,Sep,59,38
+192,193,Peter,Debye,NL,US,male,1936,chemistry,1,Berlin University,Berlin,Germany,Mar,82,52
+193,194,Norman,Haworth,GB,GB,male,1937,chemistry,2,Birmingham University,Birmingham,United Kingdom,Mar,67,54
+194,195,Paul,Karrer,RU,CH,male,1937,chemistry,2,University of Zurich,Zurich,Switzerland,Apr,82,48
+195,196,Richard,Kuhn,AT,DE,male,1938,chemistry,1,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Heidelberg,Germany,Dec,67,38
+196,197,Adolf,Butenandt,DE,DE,male,1939,chemistry,2,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Berlin-Dahlem,Germany,Mar,92,36
+197,198,Leopold,Ruzicka,HR,CH,male,1939,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Sep,89,52
+198,199,George,de Hevesy,HU,DE,male,1943,chemistry,1,Stockholm University,Stockholm,Sweden,Aug,81,58
+199,200,Otto,Hahn,DE,DE,male,1944,chemistry,1,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany,Mar,89,65
+200,201,Artturi,Virtanen,FI,FI,male,1945,chemistry,1,University of Helsinki,Helsinki,Finland,Jan,78,50
+201,202,James B.,Sumner,US,US,male,1946,chemistry,2,Cornell University,Ithaca NY,USA,Nov,68,59
+202,203,John H.,Northrop,US,US,male,1946,chemistry,4,Rockefeller Institute for Medical Research,Princeton NJ,USA,Jul,96,55
+203,204,Wendell M.,Stanley,US,ES,male,1946,chemistry,4,Rockefeller Institute for Medical Research,Princeton NJ,USA,Aug,67,42
+204,205,Sir Robert,Robinson,GB,GB,male,1947,chemistry,1,University of Oxford,Oxford,United Kingdom,Sep,89,61
+205,206,Arne,Tiselius,SE,SE,male,1948,chemistry,1,Uppsala University,Uppsala,Sweden,Aug,69,46
+206,207,William F.,Giauque,CA,US,male,1949,chemistry,1,University of California,Berkeley CA,USA,May,87,54
+207,208,Otto,Diels,DE,DE,male,1950,chemistry,2,Kiel University,Kiel,Germany,Jan,78,74
+208,209,Kurt,Alder,PL,DE,male,1950,chemistry,2,Cologne University,Cologne,Germany,Jul,56,48
+209,210,Edwin M.,McMillan,US,US,male,1951,chemistry,2,University of California,Berkeley CA,USA,Sep,84,44
+210,211,Glenn T.,Seaborg,US,US,male,1951,chemistry,2,University of California,Berkeley CA,USA,Apr,87,39
+211,212,Archer J.P.,Martin,GB,GB,male,1952,chemistry,2,National Institute for Medical Research,London,United Kingdom,Mar,92,42
+212,213,Richard L.M.,Synge,GB,GB,male,1952,chemistry,2,Rowett Research Institute,Bucksburn (Scotland),United Kingdom,Oct,80,38
+213,214,Hermann,Staudinger,DE,DE,male,1953,chemistry,1,University of Freiburg,Breisgau,Germany,Mar,84,72
+214,215,Linus,Pauling,US,US,male,1962,peace,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,93,61
+215,216,Linus,Pauling,US,US,male,1954,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,93,53
+216,217,Vincent,du Vigneaud,US,US,male,1955,chemistry,1,Cornell University,Ithaca NY,USA,May,77,54
+217,218,Sir Cyril,Hinshelwood,GB,GB,male,1956,chemistry,2,University of Oxford,Oxford,United Kingdom,May,70,59
+218,219,Nikolay,Semenov,RU,RU,male,1956,chemistry,2,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,USSR (now Russia),Apr,90,60
+219,220,Lord,Todd,GB,GB,male,1957,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Oct,90,50
+220,221,Frederick,Sanger,GB,GB,male,1958,chemistry,1,University of Cambridge,Cambridge,United Kingdom,Aug,95,40
+221,222,Frederick,Sanger,GB,GB,male,1980,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Aug,95,62
+222,223,Jaroslav,Heyrovsky,CZ,CZ,male,1959,chemistry,1,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czechoslovakia (now Czech Republic),Dec,77,69
+223,224,Willard F.,Libby,US,US,male,1960,chemistry,1,University of California,Los Angeles CA,USA,Dec,72,52
+224,225,Melvin,Calvin,US,US,male,1961,chemistry,1,University of California,Berkeley CA,USA,Apr,86,50
+225,226,Max F.,Perutz,AT,GB,male,1962,chemistry,2,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,May,88,48
+226,227,John C.,Kendrew,GB,GB,male,1962,chemistry,2,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Mar,80,45
+227,228,Karl,Ziegler,DE,DE,male,1963,chemistry,2,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Mülheim/Ruhr,Germany,Nov,75,65
+228,229,Giulio,Natta,IT,IT,male,1963,chemistry,2,Institute of Technology,Milan,Italy,Feb,76,60
+229,230,Dorothy Crowfoot,Hodgkin,EG,GB,female,1964,chemistry,1,University of Oxford Royal Society,Oxford,United Kingdom,May,84,54
+230,231,Robert B.,Woodward,US,US,male,1965,chemistry,1,Harvard University,Cambridge MA,USA,Apr,62,48
+231,232,Robert S.,Mulliken,US,US,male,1966,chemistry,1,University of Chicago,Chicago IL,USA,Jun,90,70
+232,233,Manfred,Eigen,DE,DE,male,1967,chemistry,2,Max-Planck-Institut für Physikalische Chemie,Göttingen,Germany,May,92,40
+233,234,Ronald G.W.,Norrish,GB,GB,male,1967,chemistry,4,Institute of Physical Chemistry,Cambridge,United Kingdom,Nov,81,70
+234,235,George,Porter,GB,GB,male,1967,chemistry,4,Royal Institution of Great Britain,London,United Kingdom,Dec,82,47
+235,236,Lars,Onsager,NO,US,male,1968,chemistry,1,Yale University,New Haven CT,USA,Nov,73,65
+236,237,Derek,Barton,GB,US,male,1969,chemistry,2,Imperial College,London,United Kingdom,Sep,80,51
+237,238,Odd,Hassel,NO,NO,male,1969,chemistry,2,University of Oslo,Oslo,Norway,May,84,72
+238,239,Luis,Leloir,FR,AR,male,1970,chemistry,1,Institute for Biochemical Research,Buenos Aires,Argentina,Sep,81,64
+239,240,Gerhard,Herzberg,DE,CA,male,1971,chemistry,1,National Research Council of Canada,Ottawa,Canada,Dec,95,67
+240,241,Christian,Anfinsen,US,US,male,1972,chemistry,2,National Institutes of Health,Bethesda MD,USA,Mar,79,56
+241,242,Stanford,Moore,US,US,male,1972,chemistry,4,Rockefeller University,New York NY,USA,Sep,69,59
+242,243,William H.,Stein,US,US,male,1972,chemistry,4,Rockefeller University,New York NY,USA,Jun,69,61
+243,244,Ernst Otto,Fischer,DE,DE,male,1973,chemistry,2,Technical University,Munich,Germany,Nov,89,55
+244,245,Geoffrey,Wilkinson,GB,GB,male,1973,chemistry,2,Imperial College,London,United Kingdom,Jul,75,52
+245,246,Paul J.,Flory,US,US,male,1974,chemistry,1,Stanford University,Stanford CA,USA,Jun,75,64
+246,247,John,Cornforth,AU,Not Available,male,1975,chemistry,2,University of Sussex,Brighton,United Kingdom,Sep,96,58
+247,248,Vladimir,Prelog,BA,CH,male,1975,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Jul,92,69
+248,249,William,Lipscomb,US,US,male,1976,chemistry,1,Harvard University,Cambridge MA,USA,Dec,92,57
+249,250,Ilya,Prigogine,RU,BE,male,1977,chemistry,1,Université Libre de Bruxelles,Brussels,Belgium,Jan,86,60
+250,251,Peter,Mitchell,GB,GB,male,1978,chemistry,1,Glynn Research Laboratories,Bodmin,United Kingdom,Sep,72,58
+251,252,Herbert C.,Brown,GB,US,male,1979,chemistry,2,Purdue University,West Lafayette IN,USA,May,92,67
+252,253,Georg,Wittig,DE,DE,male,1979,chemistry,2,University of Heidelberg,Heidelberg,Germany,Jun,90,82
+253,254,Paul,Berg,US,Not Available,male,1980,chemistry,2,Stanford University,Stanford CA,USA,Jun,94,54
+254,255,Walter,Gilbert,US,Not Available,male,1980,chemistry,4,Harvard University Biological Laboratories,Cambridge MA,USA,Mar,88,48
+255,256,Kenichi,Fukui,JP,JP,male,1981,chemistry,2,Kyoto University,Kyoto,Japan,Oct,80,63
+256,257,Roald,Hoffmann,UA,Not Available,male,1981,chemistry,2,Cornell University,Ithaca NY,USA,Jul,83,44
+257,258,Aaron,Klug,LT,Not Available,male,1982,chemistry,1,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Aug,92,56
+258,259,Henry,Taube,CA,US,male,1983,chemistry,1,Stanford University,Stanford CA,USA,Nov,90,68
+259,260,Bruce,Merrifield,US,US,male,1984,chemistry,1,Rockefeller University,New York NY,USA,Jul,85,63
+260,261,Herbert A.,Hauptman,US,US,male,1985,chemistry,2,The Medical Foundation of Buffalo,Buffalo NY,USA,Feb,94,68
+261,262,Jerome,Karle,US,Not Available,male,1985,chemistry,2,US Naval Research Laboratory,Washington DC,USA,Jun,95,67
+262,263,Dudley R.,Herschbach,US,Not Available,male,1986,chemistry,3,Harvard University,Cambridge MA,USA,Jun,88,54
+263,264,Yuan T.,Lee,TW,Not Available,male,1986,chemistry,3,University of California,Berkeley CA,USA,Nov,84,50
+264,265,John C.,Polanyi,DE,Not Available,male,1986,chemistry,3,University of Toronto,Toronto,Canada,Jan,91,57
+265,266,Donald J.,Cram,US,US,male,1987,chemistry,3,University of California,Los Angeles CA,USA,Apr,82,68
+266,267,Jean-Marie,Lehn,FR,Not Available,male,1987,chemistry,3,Université Louis Pasteur,Strasbourg,France,Sep,81,48
+267,268,Charles J.,Pedersen,KR,US,male,1987,chemistry,3,Du Pont,Wilmington DE,USA,Oct,85,83
+268,269,Johann,Deisenhofer,DE,Not Available,male,1988,chemistry,3,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Sep,77,45
+269,270,Robert,Huber,DE,Not Available,male,1988,chemistry,3,Max-Planck-Institut für Biochemie,Martinsried,Germany,Feb,83,51
+270,271,Hartmut,Michel,DE,Not Available,male,1988,chemistry,3,Max-Planck-Institut für Biophysik,Frankfurt-on-the-Main,Germany,Jul,72,40
+271,272,Sidney,Altman,CA,Not Available,male,1989,chemistry,2,Yale University,New Haven CT,USA,May,81,50
+272,273,Thomas R.,Cech,US,Not Available,male,1989,chemistry,2,University of Colorado,Boulder CO,USA,Dec,73,42
+273,274,Elias James,Corey,US,Not Available,male,1990,chemistry,1,Harvard University,Cambridge MA,USA,Jul,92,62
+274,275,Richard R.,Ernst,CH,Not Available,male,1991,chemistry,1,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Aug,87,58
+275,276,Rudolph A.,Marcus,CA,Not Available,male,1992,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Jul,97,69
+276,277,Kary B.,Mullis,US,US,male,1993,chemistry,2,Not Available,Not Available,Not Available,Dec,75,49
+277,278,Michael,Smith,GB,CA,male,1993,chemistry,2,University of British Columbia,Vancouver,Canada,Apr,68,61
+278,279,George A.,Olah,HU,US,male,1994,chemistry,1,University of Southern California,Los Angeles CA,USA,May,90,67
+279,280,Paul J.,Crutzen,NL,Not Available,male,1995,chemistry,3,Max-Planck-Institut für Chemie,Mainz,Germany,Dec,87,62
+280,281,Mario J.,Molina,MX,Not Available,male,1995,chemistry,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,77,52
+281,282,F. Sherwood,Rowland,US,US,male,1995,chemistry,3,University of California,Irvine CA,USA,Jun,85,68
+282,283,Robert F.,Curl Jr.,US,Not Available,male,1996,chemistry,3,Rice University,Houston TX,USA,Aug,87,63
+283,284,Sir Harold,Kroto,GB,GB,male,1996,chemistry,3,University of Sussex,Brighton,United Kingdom,Oct,77,57
+284,285,Richard E.,Smalley,US,US,male,1996,chemistry,3,Rice University,Houston TX,USA,Jun,62,53
+285,286,Paul D.,Boyer,US,US,male,1997,chemistry,4,University of California,Los Angeles CA,USA,Jul,100,79
+286,287,John E.,Walker,GB,Not Available,male,1997,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jan,79,56
+287,288,Jens C.,Skou,DK,DK,male,1997,chemistry,2,Aarhus University,Aarhus,Denmark,Oct,100,79
+288,289,Walter,Kohn,AT,US,male,1998,chemistry,2,University of California,Santa Barbara CA,USA,Mar,93,75
+289,290,John,Pople,GB,US,male,1998,chemistry,2,Northwestern University,Evanston IL,USA,Oct,79,73
+290,291,Ahmed,Zewail,EG,US,male,1999,chemistry,1,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,70,53
+291,292,Emil,von Behring,PL,DE,male,1901,medicine,1,Marburg University,Marburg,Germany,Mar,63,47
+292,293,Ronald,Ross,IN,GB,male,1902,medicine,1,University College,Liverpool,United Kingdom,May,75,45
+293,294,Niels Ryberg,Finsen,DK,DK,male,1903,medicine,1,Finsen Medical Light Institute,Copenhagen,Denmark,Dec,44,43
+294,295,Ivan,Pavlov,RU,RU,male,1904,medicine,1,Military Medical Academy,St. Petersburg,Russia,Sep,87,55
+295,296,Robert,Koch,DE,DE,male,1905,medicine,1,Institute for Infectious Diseases,Berlin,Germany,Dec,67,62
+296,297,Camillo,Golgi,IT,IT,male,1906,medicine,2,Pavia University,Pavia,Italy,Jul,83,63
+297,298,Santiago,Ramón y Cajal,ES,ES,male,1906,medicine,2,Madrid University,Madrid,Spain,May,82,54
+298,299,Alphonse,Laveran,FR,FR,male,1907,medicine,1,Institut Pasteur,Paris,France,Jun,77,62
+299,300,Ilya,Mechnikov,UA,FR,male,1908,medicine,2,Institut Pasteur,Paris,France,May,71,63
+300,301,Paul,Ehrlich,PL,DE,male,1908,medicine,2,Goettingen University,Göttingen,Germany,Mar,61,54
+301,302,Theodor,Kocher,CH,CH,male,1909,medicine,1,Berne University,Bern,Switzerland,Aug,76,68
+302,303,Albrecht,Kossel,DE,DE,male,1910,medicine,1,University of Heidelberg,Heidelberg,Germany,Sep,74,57
+303,304,Allvar,Gullstrand,SE,SE,male,1911,medicine,1,Uppsala University,Uppsala,Sweden,Jun,68,49
+304,305,Alexis,Carrel,FR,FR,male,1912,medicine,1,Rockefeller Institute for Medical Research,New York NY,USA,Jun,71,39
+305,306,Charles,Richet,FR,FR,male,1913,medicine,1,Sorbonne University,Paris,France,Aug,85,63
+306,307,Robert,Bárány,AT,SE,male,1914,medicine,1,Vienna University,Vienna,Austria,Apr,60,38
+307,308,Jules,Bordet,BE,BE,male,1919,medicine,1,Brussels University,Brussels,Belgium,Jun,91,49
+308,309,August,Krogh,DK,DK,male,1920,medicine,1,Copenhagen University,Copenhagen,Denmark,Nov,75,46
+309,310,Archibald V.,Hill,GB,GB,male,1922,medicine,2,London University,London,United Kingdom,Sep,91,36
+310,311,Otto,Meyerhof,DE,US,male,1922,medicine,2,Kiel University,Kiel,Germany,Apr,67,38
+311,312,Frederick G.,Banting,CA,CA,male,1923,medicine,2,University of Toronto,Toronto,Canada,Nov,50,32
+312,313,John,Macleod,GB,GB,male,1923,medicine,2,University of Toronto,Toronto,Canada,Sep,59,47
+313,314,Willem,Einthoven,ID,NL,male,1924,medicine,1,Leiden University,Leiden,the Netherlands,May,67,64
+314,315,Johannes,Fibiger,DK,DK,male,1926,medicine,1,Copenhagen University,Copenhagen,Denmark,Apr,61,59
+315,316,Julius,Wagner-Jauregg,AT,AT,male,1927,medicine,1,Vienna University,Vienna,Austria,Mar,83,70
+316,317,Charles,Nicolle,FR,TN,male,1928,medicine,1,Institut Pasteur,Tunis,Tunisia,Sep,70,62
+317,318,Christiaan,Eijkman,NL,NL,male,1929,medicine,2,Utrecht University,Utrecht,the Netherlands,Aug,72,71
+318,319,Sir Frederick,Hopkins,GB,GB,male,1929,medicine,2,University of Cambridge,Cambridge,United Kingdom,Jun,86,68
+319,320,Karl,Landsteiner,AT,US,male,1930,medicine,1,Rockefeller Institute for Medical Research,New York NY,USA,Jun,75,62
+320,321,Otto,Warburg,DE,DE,male,1931,medicine,1,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Berlin-Dahlem,Germany,Oct,87,48
+321,322,Sir Charles,Sherrington,GB,GB,male,1932,medicine,2,University of Oxford,Oxford,United Kingdom,Nov,95,75
+322,323,Edgar,Adrian,GB,GB,male,1932,medicine,2,University of Cambridge,Cambridge,United Kingdom,Nov,88,43
+323,324,Thomas H.,Morgan,US,US,male,1933,medicine,1,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,79,67
+324,325,George H.,Whipple,US,US,male,1934,medicine,3,University of Rochester,Rochester NY,USA,Aug,98,56
+325,326,George R.,Minot,US,US,male,1934,medicine,3,Harvard University,Cambridge MA,USA,Dec,65,49
+326,327,William P.,Murphy,US,US,male,1934,medicine,3,Harvard University,Cambridge MA,USA,Feb,95,42
+327,328,Hans,Spemann,DE,DE,male,1935,medicine,1,University of Freiburg im Breisgau,Breisgau,Germany,Jun,72,66
+328,329,Sir Henry,Dale,GB,GB,male,1936,medicine,2,National Institute for Medical Research,London,United Kingdom,Jun,93,61
+329,330,Otto,Loewi,DE,US,male,1936,medicine,2,Graz University,Graz,Austria,Jun,88,63
+330,331,Albert,Szent-Györgyi,HU,US,male,1937,medicine,1,Szeged University,Szeged,Hungary,Sep,93,44
+331,332,Corneille,Heymans,BE,BE,male,1938,medicine,1,Ghent University,Ghent,Belgium,Mar,76,46
+332,333,Gerhard,Domagk,PL,DE,male,1939,medicine,1,Munster University,Munster,Germany,Oct,69,44
+333,334,Henrik,Dam,DK,DK,male,1943,medicine,2,Polytechnic Institute,Copenhagen,Denmark,Feb,81,48
+334,335,Edward A.,Doisy,US,US,male,1943,medicine,2,Saint Louis University,St. Louis MO,USA,Nov,93,50
+335,336,Joseph,Erlanger,US,US,male,1944,medicine,2,Washington University,St. Louis MO,USA,Jan,91,70
+336,337,Herbert S.,Gasser,US,US,male,1944,medicine,2,Rockefeller Institute for Medical Research,New York NY,USA,Jul,75,56
+337,338,Sir Alexander,Fleming,GB,GB,male,1945,medicine,3,London University,London,United Kingdom,Aug,74,64
+338,339,Ernst B.,Chain,DE,IE,male,1945,medicine,3,University of Oxford,Oxford,United Kingdom,Jun,73,39
+339,340,Sir Howard,Florey,AU,GB,male,1945,medicine,3,University of Oxford,Oxford,United Kingdom,Sep,70,47
+340,341,Hermann J.,Muller,US,US,male,1946,medicine,1,Indiana University,Bloomington IN,USA,Dec,77,56
+341,342,Carl,Cori,CZ,US,male,1947,medicine,4,Washington University,St. Louis MO,USA,Dec,88,51
+342,343,Gerty,Cori,CZ,US,female,1947,medicine,4,Washington University,St. Louis MO,USA,Aug,61,51
+343,344,Bernardo,Houssay,AR,AR,male,1947,medicine,2,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina,Apr,84,60
+344,345,Paul,Müller,CH,CH,male,1948,medicine,1,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland,Jan,66,49
+345,346,Walter,Hess,CH,CH,male,1949,medicine,2,University of Zurich,Zurich,Switzerland,Mar,92,68
+346,347,Egas,Moniz,PT,PT,male,1949,medicine,2,University of Lisbon,Lisbon,Portugal,Nov,81,75
+347,348,Edward C.,Kendall,US,US,male,1950,medicine,3,Mayo Clinic,Rochester MN,USA,Mar,86,64
+348,349,Tadeus,Reichstein,PL,CH,male,1950,medicine,3,Basel University,Basel,Switzerland,Jul,99,53
+349,350,Philip S.,Hench,US,JM,male,1950,medicine,3,Mayo Clinic,Rochester MN,USA,Feb,69,54
+350,351,Max,Theiler,ZA,US,male,1951,medicine,1,Laboratories of the Division of Medicine and Public Health Rockefeller Foundation,New York NY,USA,Jan,73,52
+351,352,Selman A.,Waksman,UA,US,male,1952,medicine,1,Rutgers University,New Brunswick NJ,USA,Jul,85,64
+352,353,Hans,Krebs,DE,GB,male,1953,medicine,2,Sheffield University,Sheffield,United Kingdom,Aug,81,53
+353,354,Fritz,Lipmann,RU,US,male,1953,medicine,2,Harvard Medical School,Boston MA,USA,Jun,87,54
+354,355,John F.,Enders,US,US,male,1954,medicine,3,Harvard Medical School,Boston MA,USA,Feb,88,57
+355,356,Thomas H.,Weller,US,US,male,1954,medicine,3,Research Division of Infectious Diseases Children's Medical Center,Boston MA,USA,Jun,93,39
+356,357,Frederick C.,Robbins,US,US,male,1954,medicine,3,Western Reserve University,Cleveland OH,USA,Aug,87,38
+357,358,Hugo,Theorell,SE,SE,male,1955,medicine,1,Karolinska Institutet Nobel Medical Institute,Stockholm,Sweden,Jul,79,52
+358,359,André F.,Cournand,FR,US,male,1956,medicine,3,Columbia University Division Cardio-Pulmonary Laboratory Bellevue Hospital,New York NY,USA,Sep,93,61
+359,360,Werner,Forssmann,DE,DE,male,1956,medicine,3,Mainz University,Mainz,Germany,Aug,75,52
+360,361,Dickinson W.,Richards,US,US,male,1956,medicine,3,Columbia University,New York NY,USA,Oct,78,61
+361,362,Daniel,Bovet,CH,IT,male,1957,medicine,1,Istituto Superiore di Sanità (Chief Institute of Public Health),Rome,Italy,Mar,85,50
+362,363,George,Beadle,US,US,male,1958,medicine,4,California Institute of Technology (Caltech),Pasadena CA,USA,Oct,86,55
+363,364,Edward,Tatum,US,US,male,1958,medicine,4,Rockefeller Institute for Medical Research,New York NY,USA,Dec,66,49
+364,365,Joshua,Lederberg,US,US,male,1958,medicine,2,University of Wisconsin,Madison WI,USA,May,83,33
+365,366,Severo,Ochoa,ES,ES,male,1959,medicine,2,New York University College of Medicine,New York NY,USA,Sep,88,54
+366,367,Arthur,Kornberg,US,US,male,1959,medicine,2,Stanford University,Stanford CA,USA,Mar,89,41
+367,368,Sir Frank Macfarlane,Burnet,AU,AU,male,1960,medicine,2,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia,Sep,86,61
+368,369,Peter,Medawar,BR,GB,male,1960,medicine,2,University College,London,United Kingdom,Feb,72,45
+369,370,Georg,von Békésy,HU,US,male,1961,medicine,1,Harvard University,Cambridge MA,USA,Jun,73,62
+370,371,Francis,Crick,GB,US,male,1962,medicine,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jun,88,46
+371,372,James,Watson,US,Not Available,male,1962,medicine,3,Harvard University,Cambridge MA,USA,Apr,92,34
+372,373,Maurice,Wilkins,NZ,GB,male,1962,medicine,3,London University,London,United Kingdom,Dec,88,46
+373,374,Sir John,Eccles,AU,CH,male,1963,medicine,3,Australian National University,Canberra,Australia,Jan,94,60
+374,375,Alan,Hodgkin,GB,GB,male,1963,medicine,3,University of Cambridge,Cambridge,United Kingdom,Feb,84,49
+375,376,Andrew,Huxley,GB,GB,male,1963,medicine,3,University College,London,United Kingdom,Nov,95,46
+376,377,Konrad,Bloch,PL,US,male,1964,medicine,2,Harvard University,Cambridge MA,USA,Jan,88,52
+377,378,Feodor,Lynen,DE,DE,male,1964,medicine,2,Max-Planck-Institut für Zellchemie,Munich,Germany,Apr,68,53
+378,379,François,Jacob,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,Jun,93,45
+379,380,André,Lwoff,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,May,92,63
+380,381,Jacques,Monod,FR,FR,male,1965,medicine,3,Institut Pasteur,Paris,France,Feb,66,55
+381,382,Peyton,Rous,US,US,male,1966,medicine,2,Rockefeller University,New York NY,USA,Oct,91,87
+382,383,Charles B.,Huggins,CA,US,male,1966,medicine,2,University of Chicago Ben May Laboratory for Cancer Research,Chicago IL,USA,Sep,96,65
+383,384,Ragnar,Granit,FI,SE,male,1967,medicine,3,Karolinska Institutet,Stockholm,Sweden,Oct,91,67
+384,385,Keffer,Hartline,US,US,male,1967,medicine,3,Rockefeller University,New York NY,USA,Dec,80,64
+385,386,George,Wald,US,US,male,1967,medicine,3,Harvard University,Cambridge MA,USA,Nov,91,61
+386,387,Robert W.,Holley,US,US,male,1968,medicine,3,Cornell University,Ithaca NY,USA,Jan,71,46
+387,388,H. Gobind,Khorana,IN,US,male,1968,medicine,3,University of Wisconsin,Madison WI,USA,Jan,89,46
+388,389,Marshall W.,Nirenberg,US,US,male,1968,medicine,3,National Institutes of Health,Bethesda MD,USA,Apr,83,41
+389,390,Max,Delbrück,DE,US,male,1969,medicine,3,California Institute of Technology (Caltech),Pasadena CA,USA,Sep,75,63
+390,391,Alfred D.,Hershey,US,US,male,1969,medicine,3,Carnegie Institution of Washington,Long Island New York NY,USA,Dec,89,61
+391,392,Salvador E.,Luria,IT,US,male,1969,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Aug,79,57
+392,393,Sir Bernard,Katz,DE,GB,male,1970,medicine,3,University College,London,United Kingdom,Mar,92,59
+393,394,Ulf,von Euler,SE,SE,male,1970,medicine,3,Karolinska Institutet,Stockholm,Sweden,Feb,78,65
+394,395,Julius,Axelrod,US,US,male,1970,medicine,3,National Institutes of Health,Bethesda MD,USA,May,92,58
+395,396,Earl W.,Sutherland Jr.,US,US,male,1971,medicine,1,Vanderbilt University,Nashville TN,USA,Nov,59,56
+396,397,Gerald M.,Edelman,US,US,male,1972,medicine,2,Rockefeller University,New York NY,USA,Jul,85,43
+397,398,Rodney R.,Porter,GB,GB,male,1972,medicine,2,University of Oxford,Oxford,United Kingdom,Oct,68,55
+398,399,Karl,von Frisch,AT,DE,male,1973,medicine,3,Zoologisches Institut der Universität München,Munich,Germany,Nov,96,87
+399,400,Konrad,Lorenz,AT,AT,male,1973,medicine,3,Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften Forschungsstelle für Ethologie,Altenberg; Grünau im Almtal,Austria,Nov,86,70
+400,401,Nikolaas,Tinbergen,NL,GB,male,1973,medicine,3,University of Oxford,Oxford,United Kingdom,Apr,81,66
+401,402,Albert,Claude,BE,BE,male,1974,medicine,3,Université Catholique de Louvain,Louvain,Belgium,Aug,85,76
+402,403,Christian,de Duve,GB,BE,male,1974,medicine,3,Rockefeller University,New York NY,USA,Oct,96,57
+403,404,George E.,Palade,RO,US,male,1974,medicine,3,Yale University School of Medicine,New Haven CT,USA,Nov,96,62
+404,405,David,Baltimore,US,Not Available,male,1975,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Mar,82,37
+405,406,Renato,Dulbecco,IT,US,male,1975,medicine,3,Imperial Cancer Research Fund Laboratory,London,United Kingdom,Feb,98,61
+406,407,Howard M.,Temin,US,US,male,1975,medicine,3,University of Wisconsin,Madison WI,USA,Dec,60,41
+407,408,Baruch S.,Blumberg,US,US,male,1976,medicine,2,The Institute for Cancer Research,Philadelphia PA,USA,Jul,86,51
+408,409,D. Carleton,Gajdusek,US,NO,male,1976,medicine,2,National Institutes of Health,Bethesda MD,USA,Sep,85,53
+409,410,Roger,Guillemin,FR,Not Available,male,1977,medicine,4,The Salk Institute,San Diego CA,USA,Jan,96,53
+410,411,Andrew V.,Schally,LT,Not Available,male,1977,medicine,4,Veterans Administration Hospital,New Orleans LA,USA,Nov,94,51
+411,412,Rosalyn,Yalow,US,US,female,1977,medicine,2,Veterans Administration Hospital,Bronx NY,USA,Jul,90,56
+412,413,Werner,Arber,CH,Not Available,male,1978,medicine,3,Biozentrum der Universität,Basel,Switzerland,Jun,91,49
+413,414,Daniel,Nathans,US,US,male,1978,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Oct,71,50
+414,415,Hamilton O.,Smith,US,Not Available,male,1978,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Aug,89,47
+415,416,Allan M.,Cormack,ZA,US,male,1979,medicine,2,Tufts University,Medford MA,USA,Feb,74,55
+416,417,Godfrey N.,Hounsfield,GB,GB,male,1979,medicine,2,Central Research Laboratories EMI,London,United Kingdom,Aug,85,60
+417,418,Baruj,Benacerraf,VE,US,male,1980,medicine,3,Harvard Medical School,Boston MA,USA,Oct,91,60
+418,419,Jean,Dausset,FR,ES,male,1980,medicine,3,Université de Paris Laboratoire Immuno-Hématologie,Paris,France,Oct,93,64
+419,420,George D.,Snell,US,US,male,1980,medicine,3,Jackson Laboratory,Bar Harbor ME,USA,Dec,93,77
+420,421,Roger W.,Sperry,US,US,male,1981,medicine,2,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,81,68
+421,422,David H.,Hubel,CA,US,male,1981,medicine,4,Harvard Medical School,Boston MA,USA,Feb,87,55
+422,423,Torsten N.,Wiesel,SE,Not Available,male,1981,medicine,4,Harvard Medical School,Boston MA,USA,Jun,96,57
+423,424,Sune K.,Bergström,SE,SE,male,1982,medicine,3,Karolinska Institutet,Stockholm,Sweden,Jan,88,66
+424,425,Bengt I.,Samuelsson,SE,Not Available,male,1982,medicine,3,Karolinska Institutet,Stockholm,Sweden,May,86,48
+425,426,John R.,Vane,GB,GB,male,1982,medicine,3,The Wellcome Research Laboratories,Beckenham,United Kingdom,Mar,77,55
+426,427,Barbara,McClintock,US,US,female,1983,medicine,1,Cold Spring Harbor Laboratory,Cold Spring Harbor NY,USA,Jun,90,81
+427,428,Niels K.,Jerne,GB,FR,male,1984,medicine,3,Basel Institute for Immunology,Basel,Switzerland,Dec,83,73
+428,429,Georges J.F.,Köhler,DE,DE,male,1984,medicine,3,Basel Institute for Immunology,Basel,Switzerland,Apr,49,38
+429,430,César,Milstein,AR,GB,male,1984,medicine,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Oct,75,57
+430,431,Michael S.,Brown,US,Not Available,male,1985,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Apr,79,44
+431,432,Joseph L.,Goldstein,US,Not Available,male,1985,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Apr,80,45
+432,433,Stanley,Cohen,US,US,male,1986,medicine,2,Vanderbilt University School of Medicine,Nashville TN,USA,Nov,98,64
+433,434,Rita,Levi-Montalcini,IT,IT,female,1986,medicine,2,Institute of Cell Biology of the C.N.R.,Rome,Italy,Apr,103,77
+434,435,Susumu,Tonegawa,JP,Not Available,male,1987,medicine,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Sep,81,48
+435,436,Sir James W.,Black,GB,Not Available,male,1988,medicine,3,London University King's College Hospital Medical School,London,United Kingdom,Jun,86,64
+436,437,Gertrude B.,Elion,US,US,female,1988,medicine,3,Wellcome Research Laboratories,Research Triangle Park NC,USA,Jan,81,70
+437,438,George H.,Hitchings,US,US,male,1988,medicine,3,Wellcome Research Laboratories,Research Triangle Park NC,USA,Apr,93,83
+438,439,J. Michael,Bishop,US,Not Available,male,1989,medicine,2,University of California School of Medicine,San Francisco CA,USA,Feb,84,53
+439,440,Harold E.,Varmus,US,Not Available,male,1989,medicine,2,University of California School of Medicine,San Francisco CA,USA,Dec,81,50
+440,441,Joseph E.,Murray,US,US,male,1990,medicine,2,Brigham and Women's Hospital,Boston MA,USA,Apr,93,71
+441,442,E. Donnall,Thomas,US,US,male,1990,medicine,2,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Mar,92,70
+442,443,Erwin,Neher,DE,Not Available,male,1991,medicine,2,Max-Planck-Institut für Biophysikalische Chemie,Göttingen,Germany,Mar,76,47
+443,444,Bert,Sakmann,DE,Not Available,male,1991,medicine,2,Max-Planck-Institut für medizinische Forschung,Heidelberg,Germany,Jun,78,49
+444,445,Edmond H.,Fischer,CN,Not Available,male,1992,medicine,2,University of Washington,Seattle WA,USA,Apr,100,72
+445,446,Edwin G.,Krebs,US,US,male,1992,medicine,2,University of Washington,Seattle WA,USA,Jun,91,74
+446,447,Richard J.,Roberts,GB,Not Available,male,1993,medicine,2,New England Biolabs,Beverly MA,USA,Sep,77,50
+447,448,Phillip A.,Sharp,US,Not Available,male,1993,medicine,2,Massachusetts Institute of Technology (MIT) Center for Cancer Research,Cambridge MA,USA,Jun,76,49
+448,449,Alfred G.,Gilman,US,US,male,1994,medicine,2,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Jul,74,53
+449,450,Martin,Rodbell,US,US,male,1994,medicine,2,National Institute of Environmental Health Sciences,Research Triangle Park NC,USA,Dec,73,69
+450,451,Edward B.,Lewis,US,US,male,1995,medicine,3,California Institute of Technology (Caltech),Pasadena CA,USA,May,86,77
+451,452,Christiane,Nüsslein-Volhard,DE,Not Available,female,1995,medicine,3,Max-Planck-Institut für Entwicklungsbiologie,Tübingen,Germany,Oct,78,53
+452,453,Eric F.,Wieschaus,US,Not Available,male,1995,medicine,3,Princeton University,Princeton NJ,USA,Jun,73,48
+453,454,Peter C.,Doherty,AU,Not Available,male,1996,medicine,2,St. Jude Children's Research Hospital,Memphis TN,USA,Oct,80,56
+454,455,Rolf M.,Zinkernagel,CH,Not Available,male,1996,medicine,2,University of Zurich Institute of Experimental Immunology,Zurich,Switzerland,Jan,76,52
+455,456,Stanley B.,Prusiner,US,Not Available,male,1997,medicine,1,University of California School of Medicine,San Francisco CA,USA,May,78,55
+456,457,Robert F.,Furchgott,US,US,male,1998,medicine,3,SUNY Health Science Center,Brooklyn NY,USA,Jun,93,82
+457,458,Louis J.,Ignarro,US,Not Available,male,1998,medicine,3,University of California School of Medicine,Los Angeles CA,USA,May,79,57
+458,459,Ferid,Murad,US,Not Available,male,1998,medicine,3,University of Texas Medical School at Houston,Houston TX,USA,Sep,84,62
+459,460,Günter,Blobel,PL,US,male,1999,medicine,1,Rockefeller University,New York NY,USA,May,82,63
+460,461,Henry,Dunant,CH,CH,male,1901,peace,2,Not Available,Not Available,Not Available,May,82,73
+461,462,Frédéric,Passy,FR,FR,male,1901,peace,2,Not Available,Not Available,Not Available,May,90,79
+462,463,Élie,Ducommun,CH,CH,male,1902,peace,2,Not Available,Not Available,Not Available,Feb,73,69
+463,464,Albert,Gobat,CH,CH,male,1902,peace,2,Not Available,Not Available,Not Available,May,71,59
+464,465,Randal,Cremer,GB,GB,male,1903,peace,1,Not Available,Not Available,Not Available,Mar,80,75
+465,466,Bertha,von Suttner,CZ,AT,female,1905,peace,1,Not Available,Not Available,Not Available,Jun,71,62
+466,467,Theodore,Roosevelt,US,US,male,1906,peace,1,Not Available,Not Available,Not Available,Oct,61,48
+467,468,Ernesto Teodoro,Moneta,IT,IT,male,1907,peace,2,Not Available,Not Available,Not Available,Sep,85,74
+468,469,Louis,Renault,FR,FR,male,1907,peace,2,Sorbonne University,Paris,France,May,75,64
+469,470,Klas Pontus,Arnoldson,SE,SE,male,1908,peace,2,Not Available,Not Available,Not Available,Oct,72,64
+470,471,Fredrik,Bajer,DK,DK,male,1908,peace,2,Not Available,Not Available,Not Available,Apr,85,71
+471,472,Auguste,Beernaert,BE,CH,male,1909,peace,2,Not Available,Not Available,Not Available,Jul,83,80
+472,473,Paul Henri,d'Estournelles de Constant,FR,FR,male,1909,peace,2,Not Available,Not Available,Not Available,Nov,72,57
+473,474,Tobias,Asser,NL,NL,male,1911,peace,2,Not Available,Not Available,Not Available,Apr,75,73
+474,475,Alfred,Fried,AT,AT,male,1911,peace,2,Not Available,Not Available,Not Available,Nov,57,47
+475,476,Elihu,Root,US,US,male,1912,peace,1,Not Available,Not Available,Not Available,Feb,92,67
+476,477,Henri,La Fontaine,BE,BE,male,1913,peace,1,Not Available,Not Available,Not Available,Apr,89,59
+477,478,Woodrow,Wilson,US,US,male,1919,peace,1,Not Available,Not Available,Not Available,Dec,68,63
+478,479,Léon,Bourgeois,FR,FR,male,1920,peace,1,Not Available,Not Available,Not Available,May,74,69
+479,480,Hjalmar,Branting,SE,SE,male,1921,peace,2,Not Available,Not Available,Not Available,Nov,65,61
+480,481,Christian,Lange,NO,NO,male,1921,peace,2,Not Available,Not Available,Not Available,Sep,69,52
+481,482,Fridtjof,Nansen,NO,NO,male,1922,peace,1,Not Available,Not Available,Not Available,Oct,69,61
+482,483,Sir Austen,Chamberlain,GB,GB,male,1925,peace,2,Not Available,Not Available,Not Available,Oct,74,62
+483,484,Charles G.,Dawes,US,US,male,1925,peace,2,Not Available,Not Available,Not Available,Aug,86,60
+484,485,Aristide,Briand,FR,FR,male,1926,peace,2,Not Available,Not Available,Not Available,Mar,70,64
+485,486,Gustav,Stresemann,DE,DE,male,1926,peace,2,Not Available,Not Available,Not Available,May,51,48
+486,487,Ferdinand,Buisson,FR,FR,male,1927,peace,2,Not Available,Not Available,Not Available,Dec,91,86
+487,488,Ludwig,Quidde,DE,CH,male,1927,peace,2,Not Available,Not Available,Not Available,Mar,83,69
+488,489,Frank B.,Kellogg,US,US,male,1929,peace,1,Not Available,Not Available,Not Available,Dec,81,73
+489,490,Nathan,Söderblom,SE,SE,male,1930,peace,1,Not Available,Not Available,Not Available,Jan,65,64
+490,491,Jane,Addams,US,US,female,1931,peace,2,Not Available,Not Available,Not Available,Sep,75,71
+491,492,Nicholas Murray,Butler,US,US,male,1931,peace,2,Columbia University,New York NY,USA,Apr,85,69
+492,493,Sir Norman,Angell,GB,GB,male,1933,peace,1,Not Available,Not Available,Not Available,Dec,95,61
+493,494,Arthur,Henderson,GB,GB,male,1934,peace,1,Not Available,Not Available,Not Available,Sep,72,71
+494,495,Carl,von Ossietzky,DE,DE,male,1935,peace,1,Not Available,Not Available,Not Available,Oct,49,46
+495,496,Carlos,Saavedra Lamas,AR,AR,male,1936,peace,1,Not Available,Not Available,Not Available,Nov,81,58
+496,497,Robert,Cecil,GB,GB,male,1937,peace,1,Not Available,Not Available,Not Available,Sep,94,73
+497,498,Cordell,Hull,US,US,male,1945,peace,1,Not Available,Not Available,Not Available,Oct,84,74
+498,499,Emily Greene,Balch,US,US,female,1946,peace,2,Not Available,Not Available,Not Available,Jan,94,79
+499,500,John R.,Mott,US,US,male,1946,peace,2,Not Available,Not Available,Not Available,May,90,81
+500,501,John,Boyd Orr,GB,GB,male,1949,peace,1,Not Available,Not Available,Not Available,Sep,91,69
+501,502,Ralph,Bunche,US,US,male,1950,peace,1,Harvard University,Cambridge MA,USA,Aug,67,46
+502,503,Léon,Jouhaux,FR,FR,male,1951,peace,1,Not Available,Not Available,Not Available,Jul,75,72
+503,504,Albert,Schweitzer,FR,GA,male,1952,peace,1,Not Available,Not Available,Not Available,Jan,90,77
+504,505,George C.,Marshall,US,US,male,1953,peace,1,Not Available,Not Available,Not Available,Dec,79,73
+505,506,Lester Bowles,Pearson,CA,CA,male,1957,peace,1,Not Available,Not Available,Not Available,Apr,75,60
+506,507,Georges,Pire,BE,BE,male,1958,peace,1,Not Available,Not Available,Not Available,Feb,59,48
+507,508,Philip,Noel-Baker,GB,GB,male,1959,peace,1,Not Available,Not Available,Not Available,Nov,93,70
+508,509,Albert,Luthuli,ZW,ZA,male,1960,peace,1,Not Available,Not Available,Not Available,Jul,69,62
+509,510,Dag,Hammarskjöld,SE,ZM,male,1961,peace,1,Not Available,Not Available,Not Available,Jul,56,56
+510,511,Martin Luther,King Jr.,US,US,male,1964,peace,1,Not Available,Not Available,Not Available,Jan,39,35
+511,512,René,Cassin,FR,FR,male,1968,peace,1,Not Available,Not Available,Not Available,Oct,89,81
+512,513,Norman,Borlaug,US,US,male,1970,peace,1,Not Available,Not Available,Not Available,Mar,95,56
+513,514,Willy,Brandt,DE,DE,male,1971,peace,1,Not Available,Not Available,Not Available,Dec,79,58
+514,515,Henry,Kissinger,DE,Not Available,male,1973,peace,2,Not Available,Not Available,Not Available,May,97,50
+515,516,Le Duc Tho,Not Available,VN,VN,male,1973,peace,2,Not Available,Not Available,Not Available,Oct,79,62
+516,517,Seán,MacBride,FR,IE,male,1974,peace,2,Not Available,Not Available,Not Available,Jan,84,70
+517,518,Eisaku,Sato,JP,JP,male,1974,peace,2,Not Available,Not Available,Not Available,Mar,74,73
+518,519,Andrei,Sakharov,RU,RU,male,1975,peace,1,Not Available,Not Available,Not Available,May,68,54
+519,520,Betty,Williams,GB,GB,female,1976,peace,2,Not Available,Not Available,Not Available,May,77,33
+520,521,Mairead,Corrigan,GB,Not Available,female,1976,peace,2,Not Available,Not Available,Not Available,Jan,76,32
+521,522,Anwar,al-Sadat,EG,EG,male,1978,peace,2,Not Available,Not Available,Not Available,Dec,63,60
+522,523,Menachem,Begin,BY,IL,male,1978,peace,2,Not Available,Not Available,Not Available,Aug,79,65
+523,524,Anjezë Gonxhe,Bojaxhiu,MK,IN,female,1979,peace,1,Not Available,Not Available,Not Available,Aug,87,69
+524,525,Adolfo,Pérez Esquivel,AR,Not Available,male,1980,peace,1,Not Available,Not Available,Not Available,Nov,89,49
+525,526,Alva,Myrdal,SE,SE,female,1982,peace,2,Not Available,Not Available,Not Available,Jan,84,80
+526,527,Alfonso,García Robles,MX,MX,male,1982,peace,2,Not Available,Not Available,Not Available,Mar,80,71
+527,528,Lech,Walesa,PL,Not Available,male,1983,peace,1,Not Available,Not Available,Not Available,Sep,77,40
+528,529,Desmond,Tutu,ZA,Not Available,male,1984,peace,1,Not Available,Not Available,Not Available,Oct,89,53
+529,530,Elie,Wiesel,RO,US,male,1986,peace,1,Not Available,Not Available,Not Available,Sep,88,58
+530,531,Oscar,Arias Sánchez,CR,Not Available,male,1987,peace,1,Not Available,Not Available,Not Available,Sep,80,47
+531,532,Lhamo,Thondup,CN,Not Available,male,1989,peace,1,Not Available,Not Available,Not Available,Jul,85,54
+532,533,Mikhail,Gorbachev,RU,Not Available,male,1990,peace,1,Not Available,Not Available,Not Available,Mar,89,59
+533,534,Aung San Suu Kyi,Not Available,MM,Not Available,female,1991,peace,1,Not Available,Not Available,Not Available,Jun,75,46
+534,535,Rigoberta,Menchú Tum,GT,Not Available,female,1992,peace,1,Not Available,Not Available,Not Available,Jan,61,33
+535,536,Nelson,Mandela,ZA,ZA,male,1993,peace,2,Not Available,Not Available,Not Available,Jul,95,75
+536,537,F.W.,de Klerk,ZA,Not Available,male,1993,peace,2,Not Available,Not Available,Not Available,Mar,84,57
+537,538,Yasser,Arafat,EG,FR,male,1994,peace,3,Not Available,Not Available,Not Available,Aug,75,65
+538,539,Shimon,Peres,BY,IL,male,1994,peace,3,Not Available,Not Available,Not Available,Aug,93,71
+539,540,Yitzhak,Rabin,IL,IL,male,1994,peace,3,Not Available,Not Available,Not Available,Mar,73,72
+540,541,Joseph,Rotblat,PL,GB,male,1995,peace,2,Not Available,Not Available,Not Available,Nov,97,87
+541,542,Carlos Filipe Ximenes,Belo,TL,Not Available,male,1996,peace,2,Not Available,Not Available,Not Available,Feb,72,48
+542,543,José,Ramos-Horta,TL,Not Available,male,1996,peace,2,Not Available,Not Available,Not Available,Dec,71,47
+543,544,Jody,Williams,US,Not Available,female,1997,peace,2,Not Available,Not Available,Not Available,Oct,70,47
+544,545,John,Hume,GB,Not Available,male,1998,peace,2,Not Available,Not Available,Not Available,Jan,83,61
+545,546,David,Trimble,GB,Not Available,male,1998,peace,2,Not Available,Not Available,Not Available,Oct,76,54
+546,547,Sully,Prudhomme,FR,FR,male,1901,literature,1,Not Available,Not Available,Not Available,Mar,68,62
+547,548,Theodor,Mommsen,DE,DE,male,1902,literature,1,Not Available,Not Available,Not Available,Nov,86,85
+548,549,Bjørnstjerne,Bjørnson,NO,FR,male,1903,literature,1,Not Available,Not Available,Not Available,Dec,78,71
+549,550,Frédéric,Mistral,FR,FR,male,1904,literature,2,Not Available,Not Available,Not Available,Sep,84,74
+550,551,José,Echegaray,ES,ES,male,1904,literature,2,Not Available,Not Available,Not Available,Apr,84,72
+551,552,Henryk,Sienkiewicz,PL,CH,male,1905,literature,1,Not Available,Not Available,Not Available,May,70,59
+552,553,Giosuè,Carducci,IT,IT,male,1906,literature,1,Not Available,Not Available,Not Available,Jul,72,71
+553,554,Rudyard,Kipling,IN,GB,male,1907,literature,1,Not Available,Not Available,Not Available,Dec,71,42
+554,555,Rudolf,Eucken,DE,DE,male,1908,literature,1,Not Available,Not Available,Not Available,Jan,80,62
+555,556,Selma,Lagerlöf,SE,SE,female,1909,literature,1,Not Available,Not Available,Not Available,Nov,82,51
+556,557,Paul,Heyse,DE,DE,male,1910,literature,1,Not Available,Not Available,Not Available,Mar,84,80
+557,558,Maurice,Maeterlinck,BE,FR,male,1911,literature,1,Not Available,Not Available,Not Available,Aug,87,49
+558,559,Gerhart,Hauptmann,PL,PL,male,1912,literature,1,Not Available,Not Available,Not Available,Nov,84,50
+559,560,Rabindranath,Tagore,IN,IN,male,1913,literature,1,Not Available,Not Available,Not Available,May,80,52
+560,561,Romain,Rolland,FR,FR,male,1915,literature,1,Not Available,Not Available,Not Available,Jan,78,49
+561,562,Verner,von Heidenstam,SE,SE,male,1916,literature,1,Not Available,Not Available,Not Available,Jul,81,57
+562,563,Karl,Gjellerup,DK,DE,male,1917,literature,2,Not Available,Not Available,Not Available,Jun,62,60
+563,564,Henrik,Pontoppidan,DK,DK,male,1917,literature,2,Not Available,Not Available,Not Available,Jul,86,60
+564,565,Carl,Spitteler,CH,CH,male,1919,literature,1,Not Available,Not Available,Not Available,Apr,79,74
+565,566,Knut,Hamsun,NO,NO,male,1920,literature,1,Not Available,Not Available,Not Available,Aug,93,61
+566,567,Anatole,France,FR,FR,male,1921,literature,1,Not Available,Not Available,Not Available,Apr,80,77
+567,568,Jacinto,Benavente,ES,ES,male,1922,literature,1,Not Available,Not Available,Not Available,Aug,88,56
+568,569,William Butler,Yeats,IE,FR,male,1923,literature,1,Not Available,Not Available,Not Available,Jun,74,58
+569,570,Wladyslaw,Reymont,PL,PL,male,1924,literature,1,Not Available,Not Available,Not Available,May,58,57
+570,571,George Bernard,Shaw,IE,GB,male,1925,literature,1,Not Available,Not Available,Not Available,Jul,94,69
+571,572,Grazia,Deledda,IT,IT,female,1926,literature,1,Not Available,Not Available,Not Available,Sep,65,55
+572,573,Henri,Bergson,FR,FR,male,1927,literature,1,Not Available,Not Available,Not Available,Oct,82,68
+573,574,Sigrid,Undset,DK,NO,female,1928,literature,1,Not Available,Not Available,Not Available,May,67,46
+574,575,Thomas,Mann,DE,CH,male,1929,literature,1,Not Available,Not Available,Not Available,Jun,80,54
+575,576,Sinclair,Lewis,US,IT,male,1930,literature,1,Not Available,Not Available,Not Available,Feb,66,45
+576,577,Erik Axel,Karlfeldt,SE,SE,male,1931,literature,1,Not Available,Not Available,Not Available,Jul,67,67
+577,578,John,Galsworthy,GB,GB,male,1932,literature,1,Not Available,Not Available,Not Available,Aug,66,65
+578,579,Ivan,Bunin,RU,FR,male,1933,literature,1,Not Available,Not Available,Not Available,Oct,83,63
+579,580,Luigi,Pirandello,IT,IT,male,1934,literature,1,Not Available,Not Available,Not Available,Jun,69,67
+580,581,Eugene,O'Neill,US,US,male,1936,literature,1,Not Available,Not Available,Not Available,Oct,65,48
+581,582,Roger,Martin du Gard,FR,FR,male,1937,literature,1,Not Available,Not Available,Not Available,Mar,77,56
+582,583,Pearl,Buck,US,US,female,1938,literature,1,Not Available,Not Available,Not Available,Jun,81,46
+583,584,Frans Eemil,Sillanpää,FI,FI,male,1939,literature,1,Not Available,Not Available,Not Available,Sep,76,51
+584,585,Johannes V.,Jensen,DK,DK,male,1944,literature,1,Not Available,Not Available,Not Available,Jan,77,71
+585,586,Gabriela,Mistral,CL,US,female,1945,literature,1,Not Available,Not Available,Not Available,Apr,68,56
+586,587,Hermann,Hesse,DE,CH,male,1946,literature,1,Not Available,Not Available,Not Available,Jul,85,69
+587,588,André,Gide,FR,FR,male,1947,literature,1,Not Available,Not Available,Not Available,Nov,82,78
+588,589,T.S.,Eliot,US,GB,male,1948,literature,1,Not Available,Not Available,Not Available,Sep,77,60
+589,590,William,Faulkner,US,US,male,1949,literature,1,Not Available,Not Available,Not Available,Sep,65,52
+590,591,Bertrand,Russell,GB,GB,male,1950,literature,1,Not Available,Not Available,Not Available,May,98,78
+591,592,Pär,Lagerkvist,SE,SE,male,1951,literature,1,Not Available,Not Available,Not Available,May,83,60
+592,593,François,Mauriac,FR,FR,male,1952,literature,1,Not Available,Not Available,Not Available,Oct,85,67
+593,594,Winston,Churchill,GB,GB,male,1953,literature,1,Not Available,Not Available,Not Available,Nov,91,79
+594,595,Ernest,Hemingway,US,US,male,1954,literature,1,Not Available,Not Available,Not Available,Jul,62,55
+595,596,Halldór,Laxness,IS,IS,male,1955,literature,1,Not Available,Not Available,Not Available,Apr,96,53
+596,597,Juan Ramón,Jiménez,ES,PR,male,1956,literature,1,Not Available,Not Available,Not Available,Dec,77,75
+597,598,Albert,Camus,DZ,FR,male,1957,literature,1,Not Available,Not Available,Not Available,Nov,47,44
+598,599,Boris,Pasternak,RU,RU,male,1958,literature,1,Not Available,Not Available,Not Available,Feb,70,68
+599,600,Salvatore,Quasimodo,IT,IT,male,1959,literature,1,Not Available,Not Available,Not Available,Aug,67,58
+600,601,Saint-John,Perse,GP,FR,male,1960,literature,1,Not Available,Not Available,Not Available,May,88,73
+601,602,Ivo,Andric,BA,RS,male,1961,literature,1,Not Available,Not Available,Not Available,Oct,83,69
+602,603,John,Steinbeck,US,US,male,1962,literature,1,Not Available,Not Available,Not Available,Feb,66,60
+603,604,Giorgos,Seferis,TR,GR,male,1963,literature,1,Not Available,Not Available,Not Available,Mar,71,63
+604,605,Jean-Paul,Sartre,FR,FR,male,1964,literature,1,Not Available,Not Available,Not Available,Jun,75,59
+605,606,Mikhail,Sholokhov,RU,RU,male,1965,literature,1,Not Available,Not Available,Not Available,May,79,60
+606,607,Shmuel,Agnon,UA,IL,male,1966,literature,2,Not Available,Not Available,Not Available,Jul,82,78
+607,608,Nelly,Sachs,DE,SE,female,1966,literature,2,Not Available,Not Available,Not Available,Dec,79,75
+608,609,Miguel Angel,Asturias,GT,ES,male,1967,literature,1,Not Available,Not Available,Not Available,Oct,75,68
+609,610,Yasunari,Kawabata,JP,JP,male,1968,literature,1,Not Available,Not Available,Not Available,Jun,73,69
+610,611,Samuel,Beckett,IE,FR,male,1969,literature,1,Not Available,Not Available,Not Available,Apr,83,63
+611,612,Alexandr,Solzhenitsyn,RU,RU,male,1970,literature,1,Not Available,Not Available,Not Available,Dec,90,52
+612,613,Pablo,Neruda,CL,CL,male,1971,literature,1,Not Available,Not Available,Not Available,Jul,69,67
+613,614,Heinrich,Böll,DE,DE,male,1972,literature,1,Not Available,Not Available,Not Available,Dec,68,55
+614,615,Patrick,White,GB,AU,male,1973,literature,1,Not Available,Not Available,Not Available,May,78,61
+615,616,Eyvind,Johnson,SE,SE,male,1974,literature,2,Not Available,Not Available,Not Available,Jul,76,74
+616,617,Harry,Martinson,SE,SE,male,1974,literature,2,Not Available,Not Available,Not Available,May,74,70
+617,618,Eugenio,Montale,IT,IT,male,1975,literature,1,Not Available,Not Available,Not Available,Oct,85,79
+618,619,Saul,Bellow,CA,US,male,1976,literature,1,Not Available,Not Available,Not Available,Jun,90,61
+619,620,Vicente,Aleixandre,ES,ES,male,1977,literature,1,Not Available,Not Available,Not Available,Apr,86,79
+620,621,Isaac Bashevis,Singer,PL,US,male,1978,literature,1,Not Available,Not Available,Not Available,Jul,87,74
+621,622,Odysseus,Elytis,GR,GR,male,1979,literature,1,Not Available,Not Available,Not Available,Nov,85,68
+622,623,Czeslaw,Milosz,LT,PL,male,1980,literature,1,Not Available,Not Available,Not Available,Jun,93,69
+623,624,Elias,Canetti,BG,CH,male,1981,literature,1,Not Available,Not Available,Not Available,Jul,89,76
+624,625,Gabriel,García Márquez,CO,MX,male,1982,literature,1,Not Available,Not Available,Not Available,Mar,87,55
+625,626,William,Golding,GB,GB,male,1983,literature,1,Not Available,Not Available,Not Available,Sep,82,72
+626,627,Jaroslav,Seifert,CZ,CZ,male,1984,literature,1,Not Available,Not Available,Not Available,Sep,85,83
+627,628,Claude,Simon,MG,FR,male,1985,literature,1,Not Available,Not Available,Not Available,Oct,92,72
+628,629,Wole,Soyinka,NG,Not Available,male,1986,literature,1,Not Available,Not Available,Not Available,Jul,86,52
+629,630,Joseph,Brodsky,RU,US,male,1987,literature,1,Not Available,Not Available,Not Available,May,56,47
+630,631,Naguib,Mahfouz,EG,EG,male,1988,literature,1,Not Available,Not Available,Not Available,Dec,95,77
+631,632,Camilo José,Cela,ES,ES,male,1989,literature,1,Not Available,Not Available,Not Available,May,86,73
+632,633,Octavio,Paz,MX,MX,male,1990,literature,1,Not Available,Not Available,Not Available,Mar,84,76
+633,634,Nadine,Gordimer,ZA,ZA,female,1991,literature,1,Not Available,Not Available,Not Available,Nov,91,68
+634,635,Derek,Walcott,LC,LC,male,1992,literature,1,Not Available,Not Available,Not Available,Jan,87,62
+635,636,Toni,Morrison,US,US,female,1993,literature,1,Not Available,Not Available,Not Available,Feb,88,62
+636,637,Kenzaburo,Oe,JP,Not Available,male,1994,literature,1,Not Available,Not Available,Not Available,Jan,85,59
+637,638,Seamus,Heaney,GB,IE,male,1995,literature,1,Not Available,Not Available,Not Available,Apr,74,56
+638,639,Wislawa,Szymborska,PL,PL,female,1996,literature,1,Not Available,Not Available,Not Available,Jul,89,73
+639,640,Dario,Fo,IT,IT,male,1997,literature,1,Not Available,Not Available,Not Available,Mar,90,71
+640,641,José,Saramago,PT,ES,male,1998,literature,1,Not Available,Not Available,Not Available,Nov,88,76
+641,642,Günter,Grass,PL,DE,male,1999,literature,1,Not Available,Not Available,Not Available,Oct,88,72
+642,643,Ragnar,Frisch,NO,NO,male,1969,economics,2,University of Oslo,Oslo,Norway,Mar,78,74
+643,644,Jan,Tinbergen,NL,NL,male,1969,economics,2,The Netherlands School of Economics,Rotterdam,the Netherlands,Apr,91,66
+644,645,Paul A.,Samuelson,US,US,male,1970,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,94,55
+645,646,Simon,Kuznets,BY,US,male,1971,economics,1,Harvard University,Cambridge MA,USA,Apr,84,70
+646,647,John R.,Hicks,GB,GB,male,1972,economics,2,All Souls College,Oxford,United Kingdom,Apr,85,68
+647,648,Kenneth J.,Arrow,US,US,male,1972,economics,2,Harvard University,Cambridge MA,USA,Aug,96,51
+648,649,Wassily,Leontief,RU,US,male,1973,economics,1,Harvard University,Cambridge MA,USA,Aug,93,67
+649,650,Gunnar,Myrdal,SE,SE,male,1974,economics,2,Not Available,Not Available,Not Available,Dec,89,76
+650,651,Friedrich,von Hayek,AT,DE,male,1974,economics,2,Not Available,Not Available,Not Available,May,93,75
+651,652,Leonid Vitaliyevich,Kantorovich,RU,RU,male,1975,economics,2,Academy of Sciences,Moscow,USSR (now Russia),Jan,74,63
+652,653,Tjalling C.,Koopmans,NL,US,male,1975,economics,2,Yale University,New Haven CT,USA,Aug,75,65
+653,654,Milton,Friedman,US,US,male,1976,economics,1,University of Chicago,Chicago IL,USA,Jul,94,64
+654,655,Bertil,Ohlin,SE,SE,male,1977,economics,2,Stockholm School of Economics,Stockholm,Sweden,Apr,80,78
+655,656,James E.,Meade,GB,GB,male,1977,economics,2,University of Cambridge,Cambridge,United Kingdom,Jun,88,70
+656,657,Herbert,Simon,US,US,male,1978,economics,1,Carnegie Mellon University,Pittsburgh PA,USA,Jun,85,62
+657,658,Theodore W.,Schultz,US,US,male,1979,economics,2,University of Chicago,Chicago IL,USA,Apr,96,77
+658,659,Sir Arthur,Lewis,LC,BB,male,1979,economics,2,Princeton University,Princeton NJ,USA,Jan,76,64
+659,660,Lawrence R.,Klein,US,US,male,1980,economics,1,University of Pennsylvania,Philadelphia PA,USA,Sep,93,60
+660,661,James,Tobin,US,US,male,1981,economics,1,Yale University,New Haven CT,USA,Mar,84,63
+661,662,George J.,Stigler,US,US,male,1982,economics,1,University of Chicago,Chicago IL,USA,Jan,80,71
+662,663,Gerard,Debreu,FR,FR,male,1983,economics,1,University of California,Berkeley CA,USA,Jul,83,62
+663,664,Richard,Stone,GB,GB,male,1984,economics,1,University of Cambridge,Cambridge,United Kingdom,Aug,78,71
+664,665,Franco,Modigliani,IT,US,male,1985,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jun,85,67
+665,666,James M.,Buchanan Jr.,US,US,male,1986,economics,1,Center for Study of Public Choice,Fairfax VA,USA,Oct,94,67
+666,667,Robert M.,Solow,US,Not Available,male,1987,economics,1,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Aug,96,63
+667,668,Maurice,Allais,FR,FR,male,1988,economics,1,École Nationale Supérieur des Mines de Paris,Paris,France,May,99,77
+668,669,Trygve,Haavelmo,NO,NO,male,1989,economics,1,University of Oslo,Oslo,Norway,Dec,88,78
+669,670,Harry M.,Markowitz,US,Not Available,male,1990,economics,3,City University of New York,New York NY,USA,Aug,93,63
+670,671,Merton H.,Miller,US,US,male,1990,economics,3,University of Chicago,Chicago IL,USA,May,77,67
+671,672,William F.,Sharpe,US,Not Available,male,1990,economics,3,Stanford University,Stanford CA,USA,Jun,86,56
+672,673,Ronald H.,Coase,GB,US,male,1991,economics,1,University of Chicago,Chicago IL,USA,Dec,103,81
+673,674,Gary,Becker,US,US,male,1992,economics,1,University of Chicago,Chicago IL,USA,Dec,84,62
+674,675,Robert W.,Fogel,US,US,male,1993,economics,2,University of Chicago,Chicago IL,USA,Jul,86,66
+675,676,Douglass C.,North,US,US,male,1993,economics,2,Washington University,St. Louis MO,USA,Nov,95,73
+676,677,John C.,Harsanyi,HU,US,male,1994,economics,3,University of California,Berkeley CA,USA,May,80,74
+677,678,John F.,Nash Jr.,US,US,male,1994,economics,3,Princeton University,Princeton NJ,USA,Jun,87,66
+678,679,Reinhard,Selten,PL,PL,male,1994,economics,3,Rheinische Friedrich-Wilhelms-Universität,Bonn,Germany,Oct,86,64
+679,680,Robert E.,Lucas Jr.,US,Not Available,male,1995,economics,1,University of Chicago,Chicago IL,USA,Sep,83,58
+680,681,James A.,Mirrlees,GB,GB,male,1996,economics,2,University of Cambridge,Cambridge,United Kingdom,Jul,82,60
+681,682,William,Vickrey,CA,US,male,1996,economics,2,Columbia University,New York NY,USA,Jun,82,82
+682,683,Robert C.,Merton,US,Not Available,male,1997,economics,2,Harvard University,Cambridge MA,USA,Jul,76,53
+683,684,Myron,Scholes,CA,Not Available,male,1997,economics,2,Long Term Capital Management,Greenwich CT,USA,Jul,79,56
+684,685,Amartya,Sen,IN,Not Available,male,1998,economics,1,Trinity College,Cambridge,United Kingdom,Nov,87,65
+685,686,Robert,Mundell,CA,Not Available,male,1999,economics,1,Columbia University,New York NY,USA,Oct,88,67
+686,687,Il´ja M.,Frank,RU,RU,male,1958,physics,3,Lomonosov Moscow State University,Moscow,USSR (now Russia),Oct,82,50
+687,688,Arvid,Carlsson,SE,SE,male,2000,medicine,3,Göteborg University,Gothenburg,Sweden,Jan,95,77
+688,689,Paul,Greengard,US,US,male,2000,medicine,3,Rockefeller University,New York NY,USA,Dec,94,75
+689,690,Eric,Kandel,AT,Not Available,male,2000,medicine,3,Columbia University,New York NY,USA,Nov,91,71
+690,691,Kim,Dae-jung,KR,Not Available,male,2000,peace,1,Not Available,Not Available,Not Available,Dec,84,75
+691,692,Zhores,Alferov,BY,RU,male,2000,physics,4,A.F. Ioffe Physico-Technical Institute,St. Petersburg,Russia,Mar,89,70
+692,693,Herbert,Kroemer,DE,Not Available,male,2000,physics,4,University of California,Santa Barbara CA,USA,Aug,92,72
+693,694,Jack,Kilby,US,US,male,2000,physics,2,Texas Instruments,Dallas TX,USA,Nov,82,77
+694,695,Alan,Heeger,US,Not Available,male,2000,chemistry,3,University of California,Santa Barbara CA,USA,Jan,84,64
+695,696,Alan,MacDiarmid,NZ,US,male,2000,chemistry,3,University of Pennsylvania,Philadelphia PA,USA,Apr,80,73
+696,697,Hideki,Shirakawa,JP,Not Available,male,2000,chemistry,3,University of Tsukuba,Tokyo,Japan,Aug,84,64
+697,698,James J.,Heckman,US,Not Available,male,2000,economics,2,University of Chicago,Chicago IL,USA,Apr,76,56
+698,699,Daniel L.,McFadden,US,Not Available,male,2000,economics,2,University of California,Berkeley CA,USA,Jul,83,63
+699,700,Xingjian,Gao,CN,Not Available,male,2000,literature,1,Not Available,Not Available,Not Available,Jan,80,60
+700,701,Leland,Hartwell,US,Not Available,male,2001,medicine,3,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Oct,81,62
+701,702,Tim,Hunt,GB,Not Available,male,2001,medicine,3,Imperial Cancer Research Fund,London,United Kingdom,Feb,77,58
+702,703,Sir Paul,Nurse,GB,Not Available,male,2001,medicine,3,Imperial Cancer Research Fund,London,United Kingdom,Jan,71,52
+703,704,Eric,Cornell,US,Not Available,male,2001,physics,3,University of Colorado JILA,Boulder CO,USA,Dec,59,40
+704,705,Wolfgang,Ketterle,DE,Not Available,male,2001,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Oct,63,44
+705,706,Carl,Wieman,US,Not Available,male,2001,physics,3,University of Colorado JILA,Boulder CO,USA,Mar,69,50
+706,707,William,Knowles,US,US,male,2001,chemistry,4,Not Available,Not Available,Not Available,Jun,95,84
+707,708,Ryoji,Noyori,JP,Not Available,male,2001,chemistry,4,Nagoya University,Nagoya,Japan,Sep,82,63
+708,709,Barry,Sharpless,US,Not Available,male,2001,chemistry,2,The Scripps Research Institute,La Jolla CA,USA,Apr,79,60
+709,710,George A.,Akerlof,US,Not Available,male,2001,economics,3,University of California,Berkeley CA,USA,Jun,80,61
+710,711,A. Michael,Spence,US,Not Available,male,2001,economics,3,Stanford University,Stanford CA,USA,Nov,77,58
+711,712,Joseph E.,Stiglitz,US,Not Available,male,2001,economics,3,Columbia University,New York NY,USA,Feb,77,58
+712,713,V. S.,Naipaul,TT,GB,male,2001,literature,1,Not Available,Not Available,Not Available,Aug,86,69
+713,714,Kofi,Annan,GH,CH,male,2001,peace,2,Not Available,Not Available,Not Available,Apr,80,63
+714,715,Sydney,Brenner,ZA,SG,male,2002,medicine,3,The Molecular Sciences Institute,Berkeley CA,USA,Jan,92,75
+715,716,H. Robert,Horvitz,US,Not Available,male,2002,medicine,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,73,55
+716,717,John E.,Sulston,GB,Not Available,male,2002,medicine,3,The Wellcome Trust Sanger Institute,Cambridge,United Kingdom,Mar,76,60
+717,718,Raymond,Davis Jr.,US,US,male,2002,physics,4,University of Pennsylvania,Philadelphia PA,USA,Oct,92,88
+718,719,Masatoshi,Koshiba,JP,Not Available,male,2002,physics,4,University of Tokyo,Tokyo,Japan,Sep,94,76
+719,720,Riccardo,Giacconi,IT,US,male,2002,physics,2,Associated Universities Inc.,Washington DC,USA,Oct,87,71
+720,721,John B.,Fenn,US,US,male,2002,chemistry,4,Virginia Commonwealth University,Richmond VA,USA,Jun,93,85
+721,722,Koichi,Tanaka,JP,Not Available,male,2002,chemistry,4,Shimadzu Corp.,Kyoto,Japan,Aug,61,43
+722,723,Kurt,Wüthrich,CH,Not Available,male,2002,chemistry,2,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Oct,82,64
+723,724,Daniel,Kahneman,IL,Not Available,male,2002,economics,2,Princeton University,Princeton NJ,USA,Mar,86,68
+724,725,Vernon L.,Smith,US,Not Available,male,2002,economics,2,George Mason University,Fairfax VA,USA,Jan,93,75
+725,726,Imre,Kertész,HU,HU,male,2002,literature,1,Not Available,Not Available,Not Available,Nov,87,73
+726,727,Jimmy,Carter,US,Not Available,male,2002,peace,1,Not Available,Not Available,Not Available,Oct,96,78
+727,728,J. M.,Coetzee,ZA,Not Available,male,2003,literature,1,Not Available,Not Available,Not Available,Feb,80,63
+728,729,Paul C.,Lauterbur,US,US,male,2003,medicine,2,University of Illinois,Urbana IL,USA,May,78,74
+729,730,Sir Peter,Mansfield,GB,Not Available,male,2003,medicine,2,University of Nottingham School of Physics and Astronomy,Nottingham,United Kingdom,Oct,84,70
+730,731,Alexei,Abrikosov,RU,Not Available,male,2003,physics,3,Argonne National Laboratory,Argonne IL,USA,Jun,89,75
+731,732,Vitaly L.,Ginzburg,RU,Not Available,male,2003,physics,3,P.N. Lebedev Physical Institute,Moscow,Russia,Oct,93,87
+732,733,Anthony J.,Leggett,GB,Not Available,male,2003,physics,3,University of Illinois,Urbana IL,USA,Mar,82,65
+733,734,Peter,Agre,US,Not Available,male,2003,chemistry,2,Johns Hopkins University School of Medicine,Baltimore MD,USA,Jan,71,54
+734,735,Roderick,MacKinnon,US,Not Available,male,2003,chemistry,2,Rockefeller University,New York NY,USA,Feb,64,47
+735,736,Robert F.,Engle III,US,Not Available,male,2003,economics,2,New York University,New York NY,USA,Nov,78,61
+736,737,Clive W.J.,Granger,GB,US,male,2003,economics,2,University of California,San Diego CA,USA,Sep,75,69
+737,738,Shirin,Ebadi,IR,Not Available,female,2003,peace,1,Not Available,Not Available,Not Available,Jun,73,56
+738,739,Richard,Axel,US,Not Available,male,2004,medicine,2,Columbia University,New York NY,USA,Jul,74,58
+739,740,Linda B.,Buck,US,Not Available,female,2004,medicine,2,Fred Hutchinson Cancer Research Center,Seattle WA,USA,Jan,73,57
+740,741,David J.,Gross,US,Not Available,male,2004,physics,3,University of California Kavli Institute for Theoretical Physics,Santa Barbara CA,USA,Feb,79,63
+741,742,H. David,Politzer,US,Not Available,male,2004,physics,3,California Institute of Technology (Caltech),Pasadena CA,USA,Aug,71,55
+742,743,Frank,Wilczek,US,Not Available,male,2004,physics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,May,69,53
+743,744,Aaron,Ciechanover,IL,Not Available,male,2004,chemistry,3,Technion - Israel Institute of Technology,Haifa,Israel,Oct,73,57
+744,745,Avram,Hershko,HU,Not Available,male,2004,chemistry,3,Technion - Israel Institute of Technology,Haifa,Israel,Dec,83,67
+745,746,Irwin,Rose,US,US,male,2004,chemistry,3,University of California,Irvine CA,USA,Jul,89,78
+746,747,Elfriede,Jelinek,AT,Not Available,female,2004,literature,1,Not Available,Not Available,Not Available,Oct,74,58
+747,748,Wangari,Maathai,KE,KE,female,2004,peace,1,Not Available,Not Available,Not Available,Apr,71,64
+748,749,Finn E.,Kydland,NO,Not Available,male,2004,economics,2,Carnegie Mellon University,Pittsburgh PA,USA,Dec,77,61
+749,750,Edward C.,Prescott,US,Not Available,male,2004,economics,2,Arizona State University,Tempe AZ,USA,Dec,80,64
+750,751,Barry J.,Marshall,AU,Not Available,male,2005,medicine,2,NHMRC Helicobacter pylori Research Laboratory QEII Medical Centre,Nedlands,Australia,Sep,69,54
+751,752,J. Robin,Warren,AU,Not Available,male,2005,medicine,2,Not Available,Not Available,Not Available,Jun,83,68
+752,753,Roy J.,Glauber,US,US,male,2005,physics,2,Harvard University,Cambridge MA,USA,Sep,93,80
+753,754,John L.,Hall,US,Not Available,male,2005,physics,4,University of Colorado JILA,Boulder CO,USA,Aug,86,71
+754,755,Theodor W.,Hänsch,DE,Not Available,male,2005,physics,4,Max-Planck-Institut für Quantenoptik,Garching,Germany,Oct,79,64
+755,756,Yves,Chauvin,BE,FR,male,2005,chemistry,3,Institut Français du Pétrole,Rueil-Malmaison,France,Oct,85,75
+756,757,Robert H.,Grubbs,US,Not Available,male,2005,chemistry,3,California Institute of Technology (Caltech),Pasadena CA,USA,Feb,78,63
+757,758,Richard R.,Schrock,US,Not Available,male,2005,chemistry,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Jan,75,60
+758,759,Mohamed,ElBaradei,EG,Not Available,male,2005,peace,2,Not Available,Not Available,Not Available,Jun,78,63
+759,760,Robert J.,Aumann,DE,Not Available,male,2005,economics,2,University of Jerusalem Center for RationalityHebrew,Jerusalem,Israel,Jun,90,75
+760,761,Thomas C.,Schelling,US,US,male,2005,economics,2,University of Maryland Department of Economics and School of Public Policy,College Park MD,USA,Apr,95,84
+761,762,Harold,Pinter,GB,GB,male,2005,literature,1,Not Available,Not Available,Not Available,Oct,78,75
+762,763,Andrew Z.,Fire,US,Not Available,male,2006,medicine,2,Stanford University School of Medicine,Stanford CA,USA,Apr,61,47
+763,764,Craig C.,Mello,US,Not Available,male,2006,medicine,2,University of Massachusetts Medical School,Worcester MA,USA,Oct,60,46
+764,765,John C.,Mather,US,Not Available,male,2006,physics,2,NASA Goddard Space Flight Center,Greenbelt MD,USA,Aug,74,60
+765,766,George F.,Smoot,US,Not Available,male,2006,physics,2,University of California,Berkeley CA,USA,Feb,75,61
+766,767,Roger D.,Kornberg,US,Not Available,male,2006,chemistry,1,Stanford University,Stanford CA,USA,Apr,73,59
+767,768,Edmund S.,Phelps,US,Not Available,male,2006,economics,1,Columbia University,New York NY,USA,Jul,87,73
+768,769,Orhan,Pamuk,TR,Not Available,male,2006,literature,1,Not Available,Not Available,Not Available,Jun,68,54
+769,770,Muhammad,Yunus,BD,Not Available,male,2006,peace,2,Not Available,Not Available,Not Available,Jun,80,66
+770,771,Mario R.,Capecchi,IT,Not Available,male,2007,medicine,3,University of Utah,Salt Lake City UT,USA,Oct,83,70
+771,772,Sir Martin J.,Evans,GB,Not Available,male,2007,medicine,3,Cardiff University,Cardiff,United Kingdom,Jan,79,66
+772,773,Oliver,Smithies,GB,US,male,2007,medicine,3,University of North Carolina,Chapel Hill NC,USA,Jun,92,82
+773,774,Albert,Fert,FR,Not Available,male,2007,physics,2,Universit&eacute; Paris-Sud,Orsay,France,Mar,82,69
+774,775,Peter,Grünberg,CZ,DE,male,2007,physics,2,Forschungszentrum J&uuml;lich,Jülich,Germany,May,79,68
+775,776,Gerhard,Ertl,DE,Not Available,male,2007,chemistry,1,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,Oct,84,71
+776,777,Doris,Lessing,IR,GB,female,2007,literature,1,Not Available,Not Available,Not Available,Oct,94,88
+777,778,Al,Gore,US,Not Available,male,2007,peace,2,Not Available,Not Available,Not Available,Mar,72,59
+778,779,Leonid,Hurwicz,RU,US,male,2007,economics,3,University of Minnesota,Minneapolis MN,USA,Aug,91,90
+779,780,Eric S.,Maskin,US,Not Available,male,2007,economics,3,Institute for Advanced Study,Princeton NJ,USA,Dec,70,57
+780,781,Roger B.,Myerson,US,Not Available,male,2007,economics,3,University of Chicago,Chicago IL,USA,Mar,69,56
+781,782,Harald,zur Hausen,DE,Not Available,male,2008,medicine,2,German Cancer Research Center,Heidelberg,Germany,Mar,84,72
+782,783,Françoise,Barré-Sinoussi,FR,Not Available,female,2008,medicine,4,Regulation of Retroviral Infections Unit Virology Department Institut Pasteur,Paris,France,Jul,73,61
+783,784,Luc,Montagnier,FR,Not Available,male,2008,medicine,4,World Foundation for AIDS Research and Prevention,Paris,France,Aug,88,76
+784,785,Yoichiro,Nambu,JP,JP,male,2008,physics,2,Enrico Fermi Institute University of Chicago,Chicago IL,USA,Jan,94,87
+785,786,Makoto,Kobayashi,JP,Not Available,male,2008,physics,4,High Energy Accelerator Research Organization (KEK),Tsukuba,Japan,Apr,76,64
+786,787,Toshihide,Maskawa,JP,Not Available,male,2008,physics,4,Kyoto Sangyo University,Kyoto,Japan,Feb,80,68
+787,788,Osamu,Shimomura,JP,JP,male,2008,chemistry,3,Marine Biological Laboratory (MBL),Woods Hole MA,USA,Aug,90,80
+788,789,Martin,Chalfie,US,Not Available,male,2008,chemistry,3,Columbia University,New York NY,USA,Jan,73,61
+789,790,Roger Y.,Tsien,US,US,male,2008,chemistry,3,University of California,San Diego CA,USA,Feb,64,56
+790,791,Jean-Marie Gustave,Le Clézio,FR,Not Available,male,2008,literature,1,Not Available,Not Available,Not Available,Apr,80,68
+791,792,Martti,Ahtisaari,FI,Not Available,male,2008,peace,1,Not Available,Not Available,Not Available,Jun,83,71
+792,793,Paul,Krugman,US,Not Available,male,2008,economics,1,Princeton University,Princeton NJ,USA,Feb,67,55
+793,794,Elizabeth H.,Blackburn,AU,Not Available,female,2009,medicine,3,University of California,San Francisco CA,USA,Nov,72,61
+794,795,Carol W.,Greider,US,Not Available,female,2009,medicine,3,Johns Hopkins University School of Medicine,Baltimore MD,USA,Apr,59,48
+795,796,Jack W.,Szostak,GB,Not Available,male,2009,medicine,3,Harvard Medical School,Boston MA,USA,Nov,68,57
+796,797,Charles K.,Kao,CN,Not Available,male,2009,physics,2,Standard Telecommunication Laboratories,Harlow,United Kingdom,Nov,85,76
+797,798,Willard S.,Boyle,CA,CA,male,2009,physics,4,Bell Laboratories,Murray Hill NJ,USA,Aug,87,85
+798,799,George E.,Smith,US,Not Available,male,2009,physics,4,Bell Laboratories,Murray Hill NJ,USA,May,90,79
+799,800,Venkatraman,Ramakrishnan,IN,Not Available,male,2009,chemistry,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Apr,68,57
+800,801,Thomas A.,Steitz,US,US,male,2009,chemistry,3,Yale University,New Haven CT,USA,Aug,78,69
+801,802,Ada E.,Yonath,IL,Not Available,female,2009,chemistry,3,Weizmann Institute of Science,Rehovot,Israel,Jun,81,70
+802,803,Herta,Müller,RO,Not Available,female,2009,literature,1,Not Available,Not Available,Not Available,Aug,67,56
+803,804,Barack,Obama,US,Not Available,male,2009,peace,1,Not Available,Not Available,Not Available,Aug,59,48
+804,805,Elinor,Ostrom,US,US,female,2009,economics,2,Indiana University,Bloomington IN,USA,Aug,79,76
+805,806,Oliver E.,Williamson,US,Not Available,male,2009,economics,2,University of California,Berkeley CA,USA,Sep,88,77
+806,807,Robert G.,Edwards,GB,GB,male,2010,medicine,1,University of Cambridge,Cambridge,United Kingdom,Sep,88,85
+807,808,Andre,Geim,RU,Not Available,male,2010,physics,2,University of Manchester,Manchester,United Kingdom,Oct,62,52
+808,809,Konstantin,Novoselov,RU,Not Available,male,2010,physics,2,University of Manchester,Manchester,United Kingdom,Aug,46,36
+809,810,Richard F.,Heck,US,PH,male,2010,chemistry,3,University of Delaware,Not Available,USA,Aug,84,79
+810,811,Ei-ichi,Negishi,CN,Not Available,male,2010,chemistry,3,Purdue University,West Lafayette IN,USA,Jul,85,75
+811,812,Akira,Suzuki,JP,Not Available,male,2010,chemistry,3,Hokkaido University,Sapporo,Japan,Sep,90,80
+812,813,Mario,Vargas Llosa,PE,Not Available,male,2010,literature,1,Not Available,Not Available,Not Available,Mar,84,74
+813,814,Xiaobo,Liu,CN,CN,male,2010,peace,1,Not Available,Not Available,Not Available,Dec,62,55
+814,815,Peter A.,Diamond,US,Not Available,male,2010,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Apr,80,70
+815,816,Dale T.,Mortensen,US,US,male,2010,economics,3,Northwestern University,Evanston IL,USA,Feb,75,71
+816,817,Christopher A.,Pissarides,CY,Not Available,male,2010,economics,3,London School of Economics and Political Science,London,United Kingdom,Feb,72,62
+817,818,Bruce A.,Beutler,US,Not Available,male,2011,medicine,4,University of Texas Southwestern Medical Center at Dallas,Dallas TX,USA,Dec,63,54
+818,819,Jules A.,Hoffmann,LU,Not Available,male,2011,medicine,4,University of Strasbourg,Strasbourg,France,Aug,79,70
+819,820,Ralph M.,Steinman,CA,Not Available,male,2011,medicine,2,Rockefeller University,New York NY,USA,Jan,68,68
+820,821,Saul,Perlmutter,US,Not Available,male,2011,physics,2,Lawrence Berkeley National Laboratory,Berkeley CA,USA,Sep,61,52
+821,822,Brian P.,Schmidt,US,Not Available,male,2011,physics,4,Australian National University,Weston Creek,Australia,Feb,53,44
+822,823,Adam G.,Riess,US,Not Available,male,2011,physics,4,Johns Hopkins University,Baltimore MD,USA,Dec,51,42
+823,824,Dan,Shechtman,IL,Not Available,male,2011,chemistry,1,Technion - Israel Institute of Technology,Haifa,Israel,Jan,79,70
+824,825,Tomas,Tranströmer,SE,SE,male,2011,literature,1,Not Available,Not Available,Not Available,Apr,84,80
+825,826,Ellen,Johnson Sirleaf,LR,Not Available,female,2011,peace,3,Not Available,Not Available,Not Available,Oct,82,73
+826,827,Leymah,Gbowee,LR,Not Available,female,2011,peace,3,Not Available,Not Available,Not Available,Feb,48,39
+827,828,Tawakkol,Karman,YE,Not Available,female,2011,peace,3,Not Available,Not Available,Not Available,Feb,41,32
+828,829,Thomas J.,Sargent,US,Not Available,male,2011,economics,2,New York University,New York NY,USA,Jul,77,68
+829,830,Christopher A.,Sims,US,Not Available,male,2011,economics,2,Princeton University,Princeton NJ,USA,Oct,78,69
+830,831,Sir John B.,Gurdon,GB,Not Available,male,2012,medicine,2,Gurdon Institute,Cambridge,United Kingdom,Oct,87,79
+831,832,Shinya,Yamanaka,JP,Not Available,male,2012,medicine,2,Kyoto University,Kyoto,Japan,Sep,58,50
+832,833,Serge,Haroche,MA,Not Available,male,2012,physics,2,Collège de France,Paris,France,Sep,76,68
+833,834,David J.,Wineland,US,Not Available,male,2012,physics,2,National Institute of Standards and Technology,Boulder CO,USA,Feb,76,68
+834,835,Robert J.,Lefkowitz,US,Not Available,male,2012,chemistry,2,Howard Hughes Medical Institute,Not Available,Not Available,Apr,77,69
+835,836,Brian,Kobilka,US,Not Available,male,2012,chemistry,2,Stanford University School of Medicine,Stanford CA,USA,May,65,57
+836,837,Mo,Yan,CN,Not Available,male,2012,literature,1,Not Available,Not Available,Not Available,Feb,65,57
+837,838,Alvin E.,Roth,US,Not Available,male,2012,economics,2,Harvard University,Cambridge MA,USA,Dec,69,61
+838,839,Lloyd S.,Shapley,US,US,male,2012,economics,2,University of California,Los Angeles CA,USA,Jun,93,89
+839,840,James E.,Rothman,US,Not Available,male,2013,medicine,3,Yale University,New Haven CT,USA,Nov,70,63
+840,841,Randy W.,Schekman,US,Not Available,male,2013,medicine,3,University of California,Berkeley CA,USA,Dec,72,65
+841,842,Thomas C.,Südhof,DE,Not Available,male,2013,medicine,3,Stanford University,Stanford CA,USA,Dec,65,58
+842,843,François,Englert,BE,Not Available,male,2013,physics,2,Université Libre de Bruxelles,Brussels,Belgium,Nov,88,81
+843,844,Peter,Higgs,GB,Not Available,male,2013,physics,2,University of Edinburgh,Edinburgh,United Kingdom,May,91,84
+844,845,Martin,Karplus,AT,Not Available,male,2013,chemistry,3,Université de Strasbourg,Strasbourg,France,Mar,90,83
+845,846,Michael,Levitt,ZA,Not Available,male,2013,chemistry,3,Stanford University School of Medicine,Stanford CA,USA,May,73,66
+846,847,Arieh,Warshel,IL,Not Available,male,2013,chemistry,3,University of Southern California,Los Angeles CA,USA,Nov,80,73
+847,848,Alice,Munro,CA,Not Available,female,2013,literature,1,Not Available,Not Available,Not Available,Jul,89,82
+848,849,Eugene F.,Fama,US,Not Available,male,2013,economics,3,University of Chicago,Chicago IL,USA,Feb,81,74
+849,850,Lars Peter,Hansen,US,Not Available,male,2013,economics,3,University of Chicago,Chicago IL,USA,Oct,68,61
+850,851,Robert J.,Shiller,US,Not Available,male,2013,economics,3,Yale University,New Haven CT,USA,Mar,74,67
+851,852,John,O'Keefe,US,Not Available,male,2014,medicine,2,University College,London,United Kingdom,Nov,81,75
+852,853,May-Britt,Moser,NO,Not Available,female,2014,medicine,4,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,Jan,57,51
+853,854,Edvard I.,Moser,NO,Not Available,male,2014,medicine,4,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,Apr,58,52
+854,855,Isamu,Akasaki,JP,Not Available,male,2014,physics,3,Meijo University,Nagoya,Japan,Jan,91,85
+855,856,Hiroshi,Amano,JP,Not Available,male,2014,physics,3,Nagoya University,Nagoya,Japan,Sep,60,54
+856,857,Shuji,Nakamura,JP,Not Available,male,2014,physics,3,University of California,Santa Barbara CA,USA,May,66,60
+857,858,Eric,Betzig,US,Not Available,male,2014,chemistry,3,Janelia Research Campus Howard Hughes Medical Institute,Ashburn VA,USA,Jan,60,54
+858,859,Stefan W.,Hell,RO,Not Available,male,2014,chemistry,3,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany,Dec,58,52
+859,860,William E.,Moerner,US,Not Available,male,2014,chemistry,3,Stanford University,Stanford CA,USA,Jun,67,61
+860,861,Patrick,Modiano,FR,Not Available,male,2014,literature,1,Not Available,Not Available,Not Available,Jul,75,69
+861,862,Kailash,Satyarthi,IN,Not Available,male,2014,peace,2,Not Available,Not Available,Not Available,Jan,66,60
+862,863,Malala,Yousafzai,PK,Not Available,female,2014,peace,2,Not Available,Not Available,Not Available,Jul,23,17
+863,864,Jean,Tirole,FR,Not Available,male,2014,economics,1,Toulouse School of Economics (TSE),Toulouse,France,Aug,67,61
+864,865,William C.,Campbell,IE,Not Available,male,2015,medicine,4,Drew University,Madison NJ,USA,Jun,90,85
+865,866,Satoshi,&#332;mura,JP,Not Available,male,2015,medicine,4,Kitasato University,Tokyo,Japan,Jul,85,80
+866,867,Youyou,Tu,CN,Not Available,female,2015,medicine,2,China Academy of Traditional Chinese Medicine,Beijing,China,Dec,90,85
+867,868,Takaaki,Kajita,JP,Not Available,male,2015,physics,2,University of Tokyo,Kashiwa,Japan,Mar,61,56
+868,869,Arthur B.,McDonald,CA,Not Available,male,2015,physics,2,Queen's University,Kingston,Canada,Aug,77,72
+869,870,Tomas,Lindahl,SE,Not Available,male,2015,chemistry,3,Francis Crick Institute,Hertfordshire,United Kingdom,Jan,82,77
+870,871,Paul,Modrich,US,Not Available,male,2015,chemistry,3,Howard Hughes Medical Institute,Durham NC,USA,Jun,74,69
+871,872,Aziz,Sancar,TR,Not Available,male,2015,chemistry,3,University of North Carolina,Chapel Hill NC,USA,Sep,74,69
+872,873,Svetlana,Alexievich,UA,Not Available,female,2015,literature,1,Not Available,Not Available,Not Available,May,72,67
+873,874,Angus,Deaton,GB,Not Available,male,2015,economics,1,Princeton University,Princeton NJ,USA,Oct,75,70
+874,875,Yoshinori,Ohsumi,JP,Not Available,male,2016,medicine,1,Tokyo Institute of Technology,Tokyo,Japan,Feb,75,71
+875,876,David J.,Thouless,GB,GB,male,2016,physics,2,University of Washington,Seattle WA,USA,Sep,85,82
+876,877,F. Duncan M.,Haldane,GB,Not Available,male,2016,physics,4,Princeton University,Princeton NJ,USA,Sep,69,65
+877,878,J. Michael,Kosterlitz,GB,Not Available,male,2016,physics,4,Brown University,Providence RI,USA,Jun,77,73
+878,879,Jean-Pierre,Sauvage,FR,Not Available,male,2016,chemistry,3,University of Strasbourg,Strasbourg,France,Oct,76,72
+879,880,Sir J. Fraser,Stoddart,GB,Not Available,male,2016,chemistry,3,Northwestern University,Evanston IL,USA,May,78,74
+880,881,Bernard L.,Feringa,NL,Not Available,male,2016,chemistry,3,University of Groningen,Groningen,the Netherlands,May,69,65
+881,882,Juan Manuel,Santos,CO,Not Available,male,2016,peace,1,Not Available,Not Available,Not Available,Aug,69,65
+882,883,Oliver,Hart,GB,Not Available,male,2016,economics,2,Harvard University,Cambridge MA,USA,Oct,72,68
+883,884,Bengt,Holmström,FI,Not Available,male,2016,economics,2,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Apr,71,67
+884,885,Bob,Dylan,US,Not Available,male,2016,literature,1,Not Available,Not Available,Not Available,May,79,75
+885,886,Jeffrey C.,Hall,US,Not Available,male,2017,medicine,3,University of Maine,Maine ME,USA,May,75,72
+886,887,Michael,Rosbash,US,Not Available,male,2017,medicine,3,Brandeis University,Waltham MA,USA,Mar,76,73
+887,888,Michael W.,Young,US,Not Available,male,2017,medicine,3,Rockefeller University,New York NY,USA,Mar,71,68
+888,889,Rainer,Weiss,DE,Not Available,male,2017,physics,2,LIGO/VIRGO Collaboration,Not Available,Not Available,Sep,88,85
+889,890,Barry C.,Barish,US,Not Available,male,2017,physics,4,LIGO/VIRGO Collaboration,Not Available,Not Available,Jan,84,81
+890,891,Kip S.,Thorne,US,Not Available,male,2017,physics,4,LIGO/VIRGO Collaboration,Not Available,Not Available,Jun,80,77
+891,892,Jacques,Dubochet,CH,Not Available,male,2017,chemistry,3,University of Lausanne,Lausanne,Switzerland,Jun,78,75
+892,893,Joachim,Frank,DE,Not Available,male,2017,chemistry,3,Columbia University,New York NY,USA,Sep,80,77
+893,894,Richard,Henderson,GB,Not Available,male,2017,chemistry,3,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Jul,75,72
+894,895,Kazuo,Ishiguro,JP,Not Available,male,2017,literature,1,Not Available,Not Available,Not Available,Nov,66,63
+895,896,Richard H.,Thaler,US,Not Available,male,2017,economics,1,University of Chicago,Chicago IL,USA,Sep,75,72
+896,897,James P.,Allison,US,Not Available,male,2018,medicine,2,Parker Institute for Cancer Immunotherapy,San Francisco CA,USA,Aug,72,70
+897,898,Tasuku,Honjo,JP,Not Available,male,2018,medicine,2,Kyoto University,Kyoto,Japan,Jan,78,76
+898,899,Arthur,Ashkin,US,Not Available,male,2018,physics,2,Bell Laboratories,Holmdel NJ,USA,Sep,98,96
+899,900,Gérard,Mourou,FR,Not Available,male,2018,physics,4,École Polytechnique,Palaiseau,France,Jun,76,74
+900,901,Donna,Strickland,CA,Not Available,female,2018,physics,4,University of Waterloo,Waterloo,Canada,May,61,59
+901,902,Frances H.,Arnold,US,Not Available,female,2018,chemistry,2,California Institute of Technology (Caltech),Pasadena CA,USA,Jul,64,62
+902,903,George P.,Smith,US,Not Available,male,2018,chemistry,4,University of Missouri,Columbia,USA,Mar,79,77
+903,904,Sir Gregory P.,Winter,GB,Not Available,male,2018,chemistry,4,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Apr,69,67
+904,905,Denis,Mukwege,CD,Not Available,male,2018,peace,2,Not Available,Not Available,Not Available,Mar,65,63
+905,906,Nadia,Murad,IQ,Not Available,female,2018,peace,2,Not Available,Not Available,Not Available,Jan,27,25
+906,907,William D.,Nordhaus,US,Not Available,male,2018,economics,2,Yale University,New Haven CT,USA,May,79,77
+907,908,Paul M.,Romer,US,Not Available,male,2018,economics,2,NYU Stern School of Business,New York NY,USA,Nov,65,63
+908,909,William,Kaelin,US,Not Available,male,2019,medicine,3,Harvard Medical School,Boston MA,USA,Nov,63,62
+909,910,Peter,Ratcliffe,GB,Not Available,male,2019,medicine,3,University of Oxford,Oxford,United Kingdom,May,66,65
+910,911,Gregg,Semenza,US,Not Available,male,2019,medicine,3,Johns Hopkins University,Baltimore MD,USA,Jul,64,63
+911,912,James,Peebles,CA,Not Available,male,2019,physics,2,Princeton University,Princeton NJ,USA,Apr,85,84
+912,913,Michel,Mayor,CH,Not Available,male,2019,physics,4,University of Geneva,Geneva,Switzerland,Jan,78,77
+913,914,Didier,Queloz,CH,Not Available,male,2019,physics,4,University of Geneva,Geneva,Switzerland,Feb,54,53
+914,915,John,Goodenough,DE,Not Available,male,2019,chemistry,3,University of Texas,Austin TX,USA,Jul,98,97
+915,916,M. Stanley,Whittingham,GB,Not Available,male,2019,chemistry,3,Binghamton University State University of New York,New York NY,USA,Dec,79,78
+916,917,Akira,Yoshino,JP,Not Available,male,2019,chemistry,3,Asahi Kasei Corporation,Tokyo,Japan,Jan,72,71
+917,918,Olga,Tokarczuk,PL,Not Available,female,2018,literature,1,Not Available,Not Available,Not Available,Jan,58,56
+918,919,Peter,Handke,AT,Not Available,male,2019,literature,1,Not Available,Not Available,Not Available,Dec,78,77
+919,920,Abiy,Ahmed Ali,ET,Not Available,male,2019,peace,1,Not Available,Not Available,Not Available,Aug,44,43
+920,921,Abhijit,Banerjee,IN,Not Available,male,2019,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Feb,59,58
+921,922,Esther,Duflo,FR,Not Available,female,2019,economics,3,Massachusetts Institute of Technology (MIT),Cambridge MA,USA,Oct,48,47
+922,923,Michael,Kremer,US,Not Available,male,2019,economics,3,Harvard University,Cambridge MA,USA,Nov,56,55
